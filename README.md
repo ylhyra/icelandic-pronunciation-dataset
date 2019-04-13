@@ -8,7 +8,7 @@ This is the [Pronunciation Dictionary for Icelandic](http://malfong.is/?pg=framb
 
 **Changes include:** Removal of regional variatiants, removal of "duplicates" when words are spelled the same but have different pronunciations ("halli" vs. "Halli"), fixes regarding [kʰ], [cʰ], [tʰ], and [dʰ] missing aspirations, several standardizations such as [œy] to [œi], [ɔu] to [ou].
 
-**Known issues:** Several compound words that are supposed to include [kʰ], [cʰ], [tʰ], and [dʰ] in the middle are missing the aspirations – "barnakór" may for example be written as  [patnakouːr] and not [patnakʰouːr]. Regional variants and [heterophones](https://en.wikipedia.org/wiki/Heterophone) aren't included.
+**Known issues:** Several compound words that are supposed to include [kʰ], [cʰ], [tʰ], and [dʰ] in the middle are missing the aspirations – "umhverfi" [ʏmkʰvɛrvɪ] may for example be incorrectly written as  [ʏmkvɛrvɪ]. Regional variants and [heterophones](https://en.wikipedia.org/wiki/Heterophone) aren't included.
 
 [Contact me](mailto:egillsigurdur@gmail.com) to suggest improvements.
 
@@ -18,3 +18,7 @@ This is the [Pronunciation Dictionary for Icelandic](http://malfong.is/?pg=framb
 
 - [Íslensk hljóðfræði handa framhaldsskólum](https://notendur.hi.is/eirikur/hljfr.pdf) (in Icelandic), Eiríkur Rögnvaldsson, 1990.
 - [Hljóðfræði og hljóðritun](https://notendur.hi.is/eirikur/hoi.pdf) (in Icelandic), Eiríkur Rögnvaldsson.
+
+## See also
+
+* The [Icelandic vocabulary dataset](https://github.com/egilll/icelandic-vocabulary-dataset)
