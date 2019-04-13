@@ -8,7 +8,7 @@ This is the [Pronunciation Dictionary for Icelandic](http://malfong.is/?pg=framb
 
 **Changes include:** Removal of regional variatiants, removal of "duplicates" when words are spelled the same but have different pronunciations ("halli" vs. "Halli"), fixes regarding [kʰ], [cʰ], [tʰ], and [pʰ] missing aspirations, several standardizations such as [œy] to [œi], [ɔu] to [ou].
 
-**Known issues:** Several compound words that are supposed to include [kʰ], [cʰ], [tʰ], and [pʰ] in the middle are missing the aspirations – "umhverfi" [ʏmkʰvɛrvɪ] may for example be incorrectly written as  [ʏmkvɛrvɪ]. Regional variants and [heterophones](https://en.wikipedia.org/wiki/Heterophone) aren't included.
+**Known issues:** Several words that are supposed to include [kʰ], [cʰ], [tʰ], and [pʰ] in the middle are missing the aspirations – "umhverfi" [ʏmkʰvɛrvɪ] may for example be incorrectly written as  [ʏmkvɛrvɪ]. Regional variants and [heterophones](https://en.wikipedia.org/wiki/Heterophone) aren't included.
 
 [Contact me](mailto:egillsigurdur@gmail.com) to suggest improvements.
 
