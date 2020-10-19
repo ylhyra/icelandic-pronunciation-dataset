@@ -24,8 +24,9 @@
 # af-loknum,avlɔhknʏm
 # af-láts,avlauts
 # af-létt,avljɛht
-# af-lögu,avlœɣðʏ
+# af-lögu,avlœɣʏ
 # af-lögð,avlœɣð
+# af-lögðu,avlœɣðʏ
 # af-lýst,avlist
 # afa,aːva
 # afar,aːvar
@@ -696,8 +697,8 @@
 # all-lengi,atleiɲcɪ
 # all-liðlegan,atlɪðlɛɣan
 # all-margar,atl̥markar
-# all-margir,atl̥marɲcɪr
-# all-mikið,atl̥mɪɲcɪð
+# all-margir,atl̥marcɪr
+# all-mikið,atl̥mɪcɪð
 # all-mörg,atl̥mœrk
 # all-mörgum,atl̥mœrkʏm
 # all-nokkra,atl̥nɔhkra
@@ -943,7 +944,7 @@
 # alþjóða-væðingu,alθjouðavaiːðiŋkʏ
 # alþjóða-vísu,alθjouðaviːsʏ
 # alþjóðabank-ans,alθjouðapauŋ̊kans
-# alþjóðabankinn,alθjouðapauŋ̊cɪn
+# alþjóðabankinn,alθjouðapauɲ̊cɪn
 # alþýð-unni,alθiðʏnɪ
 # alþýða,alθiða
 # alþýðan,alθiðan
@@ -5547,7 +5548,7 @@
 # fjöl-yrða,fjœːlɪrða
 # fjöld,fjœlt
 # fjölda-morð,fjœltamɔrð
-# fjöll,fjœtl
+# fjöll,fjœtl̥
 # fjölmiðla-fræði,fjœlmɪðlafraiːðɪ
 # fjölskyldu-maður,fjœlscɪltʏmaːðʏr
 # fjör,fjœːr
@@ -5938,7 +5939,7 @@
 # fugla-líf,fʏklaliːv
 # fugli,fʏklɪ
 # fuku,fʏːkʏ
-# full,fʏtl
+# full,fʏtl̥
 # full-fær,fʏtl̥fair
 # full-gilda,fʏtl̥cɪlta
 # full-kominn,fʏtl̥kʰɔmɪn
@@ -6140,7 +6141,7 @@
 # félags-vera,fjɛːlaxsvɛːra
 # félags-vist,fjɛːlaxsvɪst
 # félagsmála-ráðherra,fjɛːlaxsmaularauːðhɛra
-# féll,fjɛtl
+# féll,fjɛtl̥
 # félli,fjɛtlɪ
 # féllu,fjɛtlʏ
 # félög,fjɛːlœɣ
@@ -8671,10 +8672,10 @@
 # inn-hjúpurinn,ɪnçupʏrɪn
 # inn-hringingu,ɪnr̥iɲciŋkʏ
 # inn-kalla,ɪŋkʰatla
-# inn-kaup,ɪŋkʰaup
-# inn-kaupa,ɪŋkʰaupa
-# inn-kaupa-stofnunar,ɪŋkʰaupastɔpnʏnar
-# inn-kaupum,ɪŋkʰaupʏm
+# inn-kaup,ɪŋkʰœip
+# inn-kaupa,ɪŋkʰœipa
+# inn-kaupa-stofnunar,ɪŋkʰœipastɔpnʏnar
+# inn-kaupum,ɪŋkʰœipʏm
 # inn-keyrslu,ɪɲcʰeir̥stlʏ
 # inn-keyrsluna,ɪɲcʰeir̥stlʏna
 # inn-keyrslunni,ɪɲcʰeir̥stlʏnɪ
@@ -8811,7 +8812,7 @@
 # innihalds-lausra,ɪnɪhaltstlœisra
 # innilokunar-kennd,ɪnɪlɔkʏnarcʰɛnt
 # innkaupa-listar,ɪŋkʰœipalɪstar
-# innkaupa-stjóri,ɪŋkaupastjouːrɪ
+# innkaupa-stjóri,ɪŋkʰœipastjouːrɪ
 # innkaupa-stjórnun,ɪŋkʰœipastjourtnʏn
 # innkirtla-sérfræðingur-inn,ɪɲcɪr̥htlasjɛr̥fraiðiŋkʏrɪn
 # innleið-ingu,ɪnleiðiŋkʏ
@@ -9617,7 +9618,7 @@
 # karfa,kʰarva
 # kari,kʰaːrɪ
 # karið,kʰaːrɪð
-# karl,kʰatl
+# karl,kʰatl̥
 # karl-maður,kʰatl̥maðʏr
 # karl-menni,kʰatl̥mɛnɪ
 # karl-mennska,kʰatlmɛnska
@@ -10373,11 +10374,11 @@
 # landa-mæri,lantamaiːrɪ
 # landar-eign,lantareikn̥
 # landbúnaðar-ráðherra,lampunaðarauːðhɛra
-# landi,lantɪ
+# landi,lan
 # landnáms-jörð,lantnaumsjœrð
 # landnáms-öld,lantnaumsœlt
 # lands,lants
-# lands-banki,lantspauŋ̊cɪ
+# lands-banki,lantspauɲ̊cɪ
 # lands-byggð,lantspɪɣð
 # lands-bókasafn,lantspoukasapn̥
 # lands-framleiðsla,lantsframleiðstla
@@ -12726,7 +12727,7 @@
 # pál,pʰauːl
 # pála,pʰauːla
 # páli,pʰauːlɪ
-# páll,pʰautl
+# páll,pʰautl̥
 # pálma,pʰaulma
 # pálma-tré,pʰaulmatrjɛː
 # pálmi,pʰaulmɪ
@@ -12773,7 +12774,7 @@
 # póst-hús,pʰousthus
 # póst-kassi,pʰoustkʰasɪ
 # póst-kort,pʰoustkʰɔr̥t
-# póst-leggja,pʰoustlɛkja
+# póst-leggja,pʰoustlɛca
 # póst-listi,pʰoustlɪstɪ
 # póst-mál,pʰoustmaul
 # pósti,pʰoustɪ
@@ -12983,9 +12984,9 @@
 # reyk-salur,reiːksalʏr
 # reyk-vík-ingur,reiːkviciŋkʏr
 # reyki,reiːcɪ
-# reykja-nes,reiːkjanɛːs
-# reykja-vík,reiːkjaviːk
-# reykjanes-bær,reiːkjanɛːspaiːr
+# reykja-nes,reiːcanɛːs
+# reykja-vík,reiːcaviːk
+# reykjanes-bær,reiːcanɛːspaiːr
 # reyks,reiks
 # reykt,reixt
 # reyna,reiːna
@@ -15192,7 +15193,7 @@
 # sæjum,saijʏm
 # sæki,saiːcɪ
 # sækir,saiːcɪr
-# sækja,saiːkja
+# sækja,saiːca
 # sækti,saixtɪ
 # sæktu,saixtʏ
 # sæl,saiːl
@@ -15203,7 +15204,7 @@
 # sælda,sailta
 # sæli,saiːlɪ
 # sælir,saiːlɪr
-# sæll,saitl
+# sæll,saitl̥
 # sælt,sail̥t
 # sælu,saiːlʏ
 # sælu-ríki,saiːlʏriːcɪ
@@ -15866,7 +15867,7 @@
 # turni,tʰʏrtnɪ
 # tusku,tʰʏskʏ
 # tussa,tʰʏsa
-# tutl,tʰʏtl
+# tutl,tʰʏtl̥
 # tuða,tʰʏːða
 # tuðar,tʰʏːðar
 # tveim,tʰveiːm
@@ -19028,6 +19029,8 @@
 # þýðinguna,θiːðiŋkʏna
 # þýðir,θiːðɪr
 # þýður,θiːðʏr
+#prédikunar-stólinn,pʰrɛːtɪkʏnarstouːlɪn
+#prédikunar-stóllinn,pʰrɛːtɪkʏnarstoutlɪn
 bjórinn,pjouːrɪn
 bjórkippu,pjour̥cɪhpʏ
 bjórnum,pjourtnʏm
@@ -19130,7 +19133,7 @@ blað-síðuna,plaðsiðʏna
 blað-síðunum,plaðsiðɔnʏm
 blað-síður,plaðsiðʏr
 blað-síðurnar,plaðsiðʏtnar
-blaða-bunki,plaːðapuŋ̊cɪ
+blaða-bunki,plaːðapuɲ̊cɪ
 blaða-fulltrúa,plaːðafʏtl̥tʰruːa
 blaða-fulltrúann,plaːðafʏtl̥tʰruːan
 blaða-fulltrúinn,plaːðafʏtltruːɪn
@@ -19368,7 +19371,7 @@ blómum,plouːmʏm
 blómunum,plouːmɔnʏm
 blóra-böggulinn,plouːrapœkʏlɪn
 blótaði,plouːtaðɪ
-blóð-bankinn,plouðpauŋ̊cɪn
+blóð-bankinn,plouðpauɲ̊cɪn
 blóð-baði,plouðpaðɪ
 blóð-bragð,plouðpraɣð
 blóð-böndum,plouðpœntʏm
@@ -23303,7 +23306,8 @@ evrópubikarliðinu,ɛvroupʏpɪːkartlɪːðɪnʏ
 evrópukeppnina,ɛvroupʏcʰɛhpnɪna
 evrópukeppninnar,ɛvroupʏcʰɛhpnɪnar
 evrópukeppninni,ɛvroupʏcʰɛhpnɪnɪ
-evrópumeistara-titilinn,ɛvroupʏmeistaratʰɪːtɪtlɪn
+evrópumeistara-titilinn,ɛvroupʏmeistaratʰɪːtɪlɪn
+evrópumeistara-titillinn,ɛvroupʏmeistaratʰɪːtɪtlɪn
 evrópumótinu,ɛvroupʏmouːtɪnʏ
 evrópumóts,ɛvroupʏmouts
 evrópumótsins,ɛvroupʏmoutsɪns
@@ -25829,7 +25833,7 @@ frank-lín,fraŋ̊klin
 franka,frauŋ̊ka
 frankar,frauŋ̊kar
 frankfurt,fraŋ̊kfur̥t
-frankinn,fraŋ̊cɪn
+frankinn,fraɲ̊cɪn
 frans-menn,fransmɛn
 frans-son,fransɔn
 fransiskó,fransɪskou
@@ -26423,7 +26427,7 @@ full-vissu,fʏtl̥vɪsʏ
 full-vissuðu,fʏtl̥vɪsʏðʏ
 full-víst,fʏtl̥vist
 full-yrt,fʏtlɪr̥t
-full-yrti,fʏtl̥ɪr̥tɪ
+full-yrti,fʏtlɪr̥tɪ
 full-yrtu,fʏtlɪr̥tʏ
 full-yrði,fʏtlɪrðɪ
 full-yrðingar,fʏtlɪrðiŋkar
@@ -27308,7 +27312,7 @@ galta-læk,kal̥talaiːk
 galvaniserað,kalvanɪsɛːrað
 gamal-kunna,kaːmalkʰʏna
 gamal-mennum,kaːmalmɛnʏm
-gamall,kaːmatl
+gamall,kaːmatl̥
 gamalla,kaːmatla
 gamallar,kaːmatlar
 gamalli,kaːmatlɪ
@@ -29843,8 +29847,9 @@ hefðum,hɛvðʏm
 hefður,hɛvðʏr
 hefðuð,hɛvðʏð
 heggur,hɛkʏr
-hegningalaga,hɛkniŋkarlaːɣa
+hegningalaga,hɛkniŋkalaːɣa
 hegningar-lögum,hɛkniŋkarlœːɣʏm
+hegningarlaga,hɛkniŋkarlaːɣa
 hegra-nesi,hɛɣranɛːsɪ
 hegrar,hɛɣrar
 hegðan,hɛɣðan
@@ -30546,10 +30551,10 @@ her-bergin,hɛrpɛcɪn
 her-berginu,hɛrpɛcɪnʏ
 her-bergisins,hɛrpɛcɪsɪns
 her-bergið,hɛrpɛcɪð
+her-bergja,hɛrpɛrcja
 her-bergjanna,hɛrpɛcana
 her-bergjum,hɛrpɛcʏm
 her-bergjunum,hɛrpɛcɔnʏm
-her-berja,hɛrpɛrcja
 her-búðanna,hɛrpuðana
 her-búðir-nar,hɛrpuðɪtnar
 her-búðum,hɛrpuðʏm
@@ -30769,7 +30774,7 @@ heysins,heiːsɪns
 heyskap,heiːskap
 heyskapinn,heiːskapɪn
 hik-lausan,hɪːklœisan
-hik-laust,hɪːklaust
+hik-laust,hɪːklœist
 hikandi,hɪːkantɪ
 hikaði,hɪːkaðɪ
 hikstar,hɪkstar
@@ -31315,7 +31320,7 @@ hlotn-ast,l̥ɔhtnast
 hlotnaðist,l̥ɔhtnaðɪst
 hlunkast,l̥uŋ̊kast
 hlunkað-ist,l̥uŋ̊kaðɪst
-hlunki,l̥uŋ̊cɪ
+hlunki,l̥uɲ̊cɪ
 hlunkur,l̥uŋ̊kʏr
 hlunn-indi,l̥ʏnɪntɪ
 hlunninda-ráðunautur,l̥ʏnɪntarauːðʏnœitʏr
@@ -31345,8 +31350,8 @@ hlustuðum,l̥ʏstʏðʏm
 hlut-anna,l̥ʏːtana
 hlut-anum,l̥ʏːtanʏm
 hlut-deildar,l̥ʏːteiltar
-hlut-falli,l̥ʏːtfatl̥ɪ
-hlut-fallið,l̥ʏːtfatl̥ɪð
+hlut-falli,l̥ʏːtfatlɪ
+hlut-fallið,l̥ʏːtfatlɪð
 hlut-falls-legri,l̥ʏːtfalslɛɣrɪ
 hlut-föll,l̥ʏːtfœtl̥
 hlut-föllin,l̥ʏːtfœtlɪn
@@ -33386,7 +33391,8 @@ hörmulegu,hœrmʏlɛɣʏ
 hörmung,hœrmuŋk
 hörmung-arnar,hœrmuŋkatnar
 hörmungar,hœrmuŋkar
-hörmungum,hœrmuŋkɔnʏm
+hörmungum,hœrmuŋkʏm
+hörmungunum,hœrmuŋkɔnʏm
 hörmuðu,hœrmʏðʏ
 hörund,hœːrʏnt
 hörundi,hœːrʏntɪ
@@ -34711,7 +34717,7 @@ konráðs-dóttir,kʰɔnrauðstouhtɪr
 konráðs-son,kʰɔnrauðsɔːn
 konráðs-sonar,kʰɔnrauðsɔːnar
 konstantíns-höllin,kʰɔnstantinshœtlɪn
-konsúllinn,kʰɔnsutl̥ɪn
+konsúllinn,kʰɔnsutlɪn
 kontra-bassa,kʰɔn̥trapasa
 kontra-punkti,kʰɔn̥trapʰuŋ̊tɪ
 kontínental,kʰɔn̥tinɛn̥tal
@@ -36124,7 +36130,7 @@ lands-banka,lantspauŋ̊ka
 lands-bankann,lantspauŋ̊kan
 lands-bankans,lantspauŋ̊kans
 lands-bankanum,lantspauŋ̊kanʏm
-lands-bankinn,lantspauŋ̊cɪn
+lands-bankinn,lantspauɲ̊cɪn
 lands-bjargar,lantspjarkar
 lands-björg,lantspjœrk
 lands-bréf,lantsprjɛv
@@ -36382,7 +36388,7 @@ laugardags-morgun,lœiːɣartaxsmɔrkʏn
 laugardags-morguninn,lœiːɣartaxsmɔrkʏnɪn
 laugardalinn,lœiːɣartaːlɪn
 laugardals-höll,lœiːɣartalshœtl̥
-laugardals-höllinni,lœiːɣartalshœtl̥ɪnɪ
+laugardals-höllinni,lœiːɣartalshœtlɪnɪ
 laugardals-laug,lœiːɣartalstlœiɣ
 laugardals-laugin,lœiːɣatalslœiːjɪn
 laugardals-velli,lœiːɣartalsvɛtlɪ
@@ -36962,7 +36968,7 @@ lest-arnar,lɛstartnar
 lestar-innar,lɛstarɪnar
 lestar-klefa,lɛstarkʰlɛːva
 lestar-lúgu,lɛstarluːʏ
-lestar-pall,lɛstarpʰatl
+lestar-pall,lɛstarpʰatl̥
 lestar-stjórinn,lɛstarstjouːrɪn
 lestar-stöð,lɛstarstœð
 lestarfar,lɛstarfaːr
@@ -38146,7 +38152,7 @@ línunnar,liːnʏnar
 línunni,liːnʏnɪ
 lít-illar,liːtɪtlar
 lítil-lega,liːtɪlɛɣa
-lítill,liːtɪtl
+lítill,liːtɪtl̥
 lítilla,liːtɪtla
 lítilli,liːtɪtlɪ
 lítils,liːtɪls
@@ -39245,7 +39251,7 @@ með-limum,mɛðlɪmʏm
 með-talinni,mɛðtʰalɪnɪ
 með-tekið,mɛðtʰɛcɪð
 með-tók,mɛðtʰouk
-með-töldum,mɛðtœltʰʏm
+með-töldum,mɛðtʰœltʏm
 með-vitað,mɛðvɪtað
 með-vitaða,mɛðvɪtaða
 með-vitaðir,mɛðvɪtaðɪr
@@ -39263,7 +39269,7 @@ meðal-fínt,mɛːðalfin̥t
 meðal-hitinn,mɛːðalhɪːtɪn
 meðal-lagi,mɛːðalaijɪ
 meðal-landi,mɛːðalantɪ
-meðal-laun,mɛːðalauːn
+meðal-laun,mɛːðalœiːn
 meðal-línubil,mɛːðaliːnʏpɪːl
 meðal-nyt,mɛːðalnɪːt
 meðal-námstími,mɛːðalnaumstʰimɪ
@@ -39305,7 +39311,7 @@ mikil-vægust,mɪːcɪlvaiːɣʏst
 mikil-vægustu,mɪːcɪlvaiːɣʏstʏ
 mikilfeng-legu,mɪːcɪlfeiŋklɛɣʏ
 mikilfeng-legum,mɪːcɪlfeiŋklɛɣʏm
-mikill,mɪːcɪtl
+mikill,mɪːcɪtl̥
 mikilla,mɪːcɪtla
 mikillar,mɪːcɪtlar
 mikilli,mɪːcɪtlɪ
@@ -40624,7 +40630,7 @@ net-fyrirtæki,nɛːtfɪrɪrtaiːcɪ
 net-föng,nɛːtfœiŋk
 net-heimum,nɛːtheimʏm
 net-hjálp,nɛːtçaul̥p
-net-hliðin,nɛːtl̥ɪðɪn
+net-hliðin,nɛːtlɪðɪn
 net-hópvinnu,nɛːthoupvɪnʏ
 net-kaffi,nɛːtkʰafɪ
 net-kaffið,nɛːtkʰafɪð
@@ -42001,7 +42007,7 @@ plokka,pʰlɔhka
 plokkun,pʰlɔhkʏn
 plánetan,pʰlauːnɛtan
 plánetu,pʰlauːnɛtʏ
-pláneturunki,pʰlauːnɛtʏruŋ̊cɪ
+pláneturunki,pʰlauːnɛtʏruɲ̊cɪ
 plássi,pʰlausɪ
 plássinu,pʰlausɪnʏ
 plássið,pʰlausɪð
@@ -42163,7 +42169,6 @@ prufu-leikjum,pʰrʏːvʏleiːcʏm
 prufu-stykkin,pʰrʏːvʏstɪhcɪn
 prufur,pʰrʏːvʏr
 pré-dikað,pʰrɛːtɪkað
-prédikun-arstólinn,pʰrɛːtɪkʏnarstoutlɪn
 prédikuninni,pʰrɛːtɪkʏnɪnɪ
 prílaði,pʰriːlaðɪ
 prím-signast,pʰrimsɪknast
@@ -42669,7 +42674,7 @@ rauninni,rœiːnɪnɪ
 raunir,rœiːnɪr
 raunneyslu,rœineistlʏ
 raunsæ,rœinsai
-raunsæis-manneskjan,rœinsaijɪsmanɛskjan
+raunsæis-manneskjan,rœinsaijɪsmanɛscan
 raunsæis-málverk,rœinsaijɪsmaulvɛr̥k
 raunum,rœiːnʏm
 raunveru-leg,rœinvɛrʏlɛɣ
@@ -43004,24 +43009,24 @@ reykir,reiːcɪr
 reykj-andi,reiːcantɪ
 reykja,reiːca
 reykja-byggð,reiːcapɪɣð
-reykja-dal,reiːkjataːl
+reykja-dal,reiːcataːl
 reykja-dalnum,reiːcatalnʏm
 reykja-garðs,reiːcakarðs
-reykja-hlíð,reiːkjahliːð
+reykja-hlíð,reiːcahliːð
 reykja-nesbrautinni,reiːcanɛsprœiːtɪnɪ
-reykja-nesi,reiːkjanɛːsɪ
-reykja-ness,reiːkjanɛːs
+reykja-nesi,reiːcanɛːsɪ
+reykja-ness,reiːcanɛːs
 reykja-réttir,reiːcarjɛhtɪr
 reykja-sel,reiːcasɛːl
 reykja-valla,reiːcavatla
-reykja-víkur,reiːkjaviːkʏr
-reykja-víkur-borgar,reiːkjaviːkʏrpɔrkar
+reykja-víkur,reiːcaviːkʏr
+reykja-víkur-borgar,reiːcaviːkʏrpɔrkar
 reykja-víkur-deildar,reiːcavikʏrteiltar
 reykja-víkur-flugvallar,reiːcavikʏrflʏɣvatlar
 reykja-víkur-flugvelli,reiːcavikʏrflʏɣvɛtlɪ
 reykja-víkur-flugvöll,reiːcavikʏrflʏɣvœtl̥
 reykja-víkur-flugvöllur,reiːcavikʏrflʏɣvœtlʏr
-reykja-víkur-hafnar,reiːkjaviːkʏrhapnar
+reykja-víkur-hafnar,reiːcaviːkʏrhapnar
 reykja-víkur-svæðinu,reiːcavikʏrsvaiːðɪnʏ
 reykja-víkurlistinn,reiːcavikʏrlɪstɪn
 reykja-völlum,reiːcavœtlʏm
@@ -43030,20 +43035,20 @@ reykjalundar,reiːcalʏntar
 reykjalundi,reiːcalʏntɪ
 reykjanes-braut,reiːcanɛsprœiːt
 reykjanes-brautar,reiːcanɛsprœiːtar
-reykjanes-bæjar,reiːkjanɛːspaiːjar
+reykjanes-bæjar,reiːcanɛːspaiːjar
 reykjanes-hrygg,reiːcanɛsr̥ɪk
 reykjanes-höll,reiːcanɛshœtl̥
 reykjanesbrautina,reiːcanɛsprœiːtɪna
-reykjanesbæ,reiːkjanɛːspaiː
+reykjanesbæ,reiːcanɛːspaiː
 reykjanesskaga,reiːcanɛskaːɣa
 reykjar-mekki,reiːcarmɛhcɪ
-reykjar-mökkur,reiːkjamœhkʏr
-reykjarslæðu,reiːkjaslaiːðʏ
+reykjar-mökkur,reiːcarmœhkʏr
+reykjarslæðu,reiːcaslaiːðʏ
 reykjarvíkur-borgar,reiːcarvikʏrpɔrkar
-reykjavíkur-akademían,reiːkjaviːkʏraːkatɛmian
-reykjavíkur-borg,reiːkjaviːkʏrpɔrk
+reykjavíkur-akademían,reiːcaviːkʏraːkatɛmian
+reykjavíkur-borg,reiːcaviːkʏrpɔrk
 reykjavíkur-deild,reiːcavikʏrteilt
-reykjavíkur-höfn,reiːkjaviːkʏrhœpn
+reykjavíkur-höfn,reiːcaviːkʏrhœpn
 reykjavíkur-listann,reiːcavikʏrlɪstan
 reykjavíkur-listans,reiːcavikʏrlɪstans
 reykjavíkur-listanum,reiːcavikʏrlɪstanʏm
@@ -43052,8 +43057,8 @@ reykjavíkur-meistaratitilinn,reiːcavikʏrmeistaratʰɪːtɪtlɪn
 reykjavíkur-prófasts-dæma,reiːcavikʏrpʰrouːfastaiːma
 reykjavíkur-prófasts-dæmi,reiːcavikʏrpʰrouːfastaiːmɪ
 reykjavíkur-risar-nir,reiːcavikʏrɪːsatnɪr
-reykjavíkur-veg,reiːkjaviːkʏrvɛːɣ
-reykjavíkur-vegi,reiːkjaviːkʏrveiːjɪ
+reykjavíkur-veg,reiːcaviːkʏrvɛːɣ
+reykjavíkur-vegi,reiːcaviːkʏrveiːjɪ
 reykjum,reiːcʏm
 reykmökkinn,reiːkmœhcɪn
 reyknum,reihknʏm
@@ -44635,7 +44640,7 @@ sandglompu-högg,santklɔm̥pʏhœk
 sandinn,santɪn
 sandinum,santɪnʏm
 sandra,santra
-sandsparstl,santspar̥stl
+sandsparstl,santspar̥stl̥
 sandstorm-arnir,santstɔrmatnɪr
 sandur,santʏr
 sandurinn,santʏrɪn
@@ -45855,7 +45860,7 @@ skaupið,skœipɪð
 skaust,skœist
 skauta,skœiːta
 skautahlauparinn,skœital̥œiparɪn
-skautahöllinni,skœiːtahœtl̥ɪn
+skautahöllinni,skœiːtahœtlɪn
 skauti,skœiːtɪ
 skautið,skœiːtɪð
 skautum,skœiːtʏm
@@ -46925,7 +46930,7 @@ skál-holti,skauːlhɔl̥tɪ
 skál-holts,skauːlhɔl̥ts
 skál-holts-dómkirkja,skauːlhɔl̥tstoumcʰɪr̥ca
 skála-fell,skauːlafɛtl̥
-skála-felli,skauːlafɛtl̥ɪ
+skála-felli,skauːlafɛtlɪ
 skála-svæða,skauːlasvaiːða
 skála-vörður,skauːlavœrðʏr
 skálann,skauːlan
@@ -47926,7 +47931,7 @@ snæfell,stnaiːfɛtl̥
 snæfell-sport,stnaiːfɛlspɔr̥t
 snæfells-bæjar,stnaiːfɛlspaiːjar
 snæfells-jökli,stnaiːfɛlsjœhklɪ
-snæfells-jökul,stnaiːfɛlsjœːkʏtl̥
+snæfells-jökul,stnaiːfɛlsjœːkʏl
 snæfells-jökull,stnaiːfɛlsjœːkʏtl̥
 snæfells-nes,stnaiːfɛlstnɛːs
 snæfells-ness,stnaiːfɛlstnɛs
@@ -48606,7 +48611,8 @@ starfs-bræðrum,starspraiðrʏm
 starfs-bræður,starspraiðʏr
 starfs-bróður,starsprouðʏr
 starfs-dögum,starstœɣʏm
-starfs-feril,starsfɛrɪtl̥
+starfs-feril,starsfɛrɪl
+starfs-ferill,starsfɛrɪtl̥
 starfs-ferli,starsfɛrtlɪ
 starfs-frama,starsframa
 starfs-fólki,starsfoul̥cɪ
@@ -48695,7 +48701,7 @@ staupi,stœiːpɪ
 staupin,stœiːpɪn
 staupinu,stœiːpɪnʏ
 staupið,stœiːpɪð
-staur-blankir,stœirplauŋ̊cɪr
+staur-blankir,stœirplauɲ̊cɪr
 staur-blindum,stœirplɪntʏm
 staura,stœiːra
 staurinn,stœiːrɪn
@@ -52136,7 +52142,7 @@ til-liti,tʰɪlɪtɪ
 til-lits,tʰɪlɪts
 til-lögu,tʰɪlœɣʏ
 til-lögum,tʰɪlœɣʏm
-til-löguna,tʰɪl̥ɣʏna
+til-löguna,tʰɪlɣʏna
 til-lögunnar,tʰɪlœɣʏnar
 til-lögunni,tʰɪlœɣʏnɪ
 til-lögunum,tʰɪlœɣɔnʏm
@@ -53264,8 +53270,9 @@ umboði,ʏmpɔðɪ
 umboðið,ʏmpɔðɪð
 umboðs-aðila,ʏmpɔðsaːðɪla
 umboðs-aðili,ʏmpɔðsaːðɪlɪ
-umboðs-mann,ʏmpɔðsmans
+umboðs-mann,ʏmpɔðsman
 umboðs-manni,ʏmpɔðsmanɪ
+umboðs-manns,ʏmpɔðsmans
 umboðs-manns,ʏmpɔðsmans
 umboðs-maðurinn,ʏmpɔðsmaːðʏrɪn
 umboðs-menn,ʏmpɔðsmɛn
@@ -53673,7 +53680,7 @@ unganna,uŋkana
 ungbarna-sundi,uŋkpartnasʏntɪ
 ungdómsins,uŋtoumsɪns
 unginn,uɲcɪn
-ungling,uŋliŋkʏr
+ungling,uŋliŋk
 ungling-ana,uŋlinkana
 ungling-anna,uŋlinkana
 ungling-arnir,uŋlinkatnɪr
