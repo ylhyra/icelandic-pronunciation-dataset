@@ -1348,7 +1348,8 @@
 # arfur,arvʏr
 # argasta,arkasta
 # argentína,arkɛntiːna
-# argentínska,arkɛntinskra
+# argentínska,arkɛntinska
+# argentínskra,arkɛntinskra
 # argentínu,arkɛntiːnʏ
 # argentínu-menn,arkɛntiːnʏmɛn
 # argon,arkɔn
@@ -2215,7 +2216,7 @@
 # aðeins,aːðeins
 # aðfanga-dag,aðfauŋkataːɣ
 # aðfanga-dagur,aðfauŋkataːɣʏr
-# aðfangadags-kvöld,aðfauŋkataxskʰvœlt
+# aðfangadags-kvöld,aðfauŋkatakskʰvœlt
 # aðfara-nótt,aðfaranouht
 # aðfarir,aðfarɪr
 # aðfarir-nar,aðfarɪtnar
@@ -5513,7 +5514,7 @@
 # fjári,fjauːrɪ
 # fjármagns-gjöld,fjaurmakscœlð
 # fjármála-fyrirtæki,fjaurmaulafɪːrɪrtʰaiːcɪ
-# fjármála-ráðherra,fjaurmaularauːθɛra
+# fjármála-ráðherra,fjaurmaularauːðhɛra
 # fjármála-starfsemi,fjaurmaulastarsɛmɪ
 # fjármála-stjóri,fjaurmaulastjouːrɪ
 # fjær,fjaiːr
@@ -7767,7 +7768,7 @@
 # hratt,r̥aht
 # hraun,r̥œiːn
 # hraus,r̥œiːs
-# hraust-menni,r̥œitsmɛnɪ
+# hraust-menni,r̥œistmɛnɪ
 # hraut,r̥œiːt
 # hrað-akstur,r̥aːðakstʏr
 # hrað-boði,r̥aðpɔðɪ
@@ -7883,7 +7884,7 @@
 # hug-hreysti,hʏxr̥eistɪ
 # hug-hreysting,hʏxr̥eistiŋk
 # hug-hrif,hʏxr̥ɪv
-# hug-hvarf,hʏxkʰvarv
+# hug-hvarf,hʏɣkʰvarv
 # hug-hyggja,hʏːɣhɪca
 # hug-kvæmni,hʏɣkʰvaimnɪ
 # hug-leiða,hʏɣleiða
@@ -8840,7 +8841,7 @@
 # internet-risinn,ɪn̥tɛrnɛtrɪːsɪn
 # inu,ɪːnʏ
 # inúíta,ɪːnuita
-# iogt,ɪː ɔː kjɛː tjɛː
+# iogt,ɪː ɔː cɛː tjɛː
 # irju,ɪrjʏ
 # irma,ɪrma
 # is,ɪːs
@@ -10780,7 +10781,8 @@
 # loga,lɔɣa
 # logar,lɔɣar
 # logi,lɔijɪ
-# logið,lɔknɪð
+# logið,lɔijɪð
+# lognið,lɔknɪð
 # logn,lɔkn
 # logn-mjöll,lɔknmjœtl̥
 # logn-molla,lɔknmɔtla
@@ -11482,7 +11484,7 @@
 # meðul,mɛːðœl
 # meðvitundar-laus,mɛðvɪtʏntarlœiːs
 # meðöl,mɛːðœl
-# mgm,ɛm kjɛː ɛm
+# mgm,ɛm cɛː ɛm
 # mh,ɛm hauː
 # mhí,ɛm hauː iː
 # mig,mɪːɣ
@@ -12091,7 +12093,8 @@
 # niður,nɪːðʏr
 # niður-brot,nɪːðʏr̥prɔːt
 # niður-brotinn,nɪːðʏrprɔːtɪn
-# niður-greiða,nɪːðʏrkreiðstla
+# niður-greiðsla,nɪːðʏrkreiðstla
+# niður-greiða,nɪːðʏrkreiða
 # niður-lag,nɪːðʏrlaɣ
 # niður-leið,nɪːðʏrleiːð
 # niður-læging,nɪːðʏrlaijiŋk
@@ -12961,7 +12964,7 @@
 # rekin,rɛːcɪn
 # rekið,rɛːcɪð
 # rekja,rɛːca
-# rekju,rɛhkjʏ
+# rekju,rɛːcʏ
 # reknu,rɛhknʏ
 # rekst,rɛkst
 # rekstrar-kostnaður,rɛkstrarkʰɔstnaðʏr
@@ -13487,7 +13490,7 @@
 # saka,saːka
 # saka-mál,saːkamauːl
 # sakar,saːkar
-# sakar-uppgjöf,saːkarʏhpkjœv
+# sakar-uppgjöf,saːkarʏhpcœv
 # sakað,saːkað
 # sakir,saːcɪr
 # sakna,sahkna
@@ -19995,7 +19998,8 @@ brjósta,prjousta
 brjósta-gjöf,prjoustacœːv
 brjósta-gjöfum,prjoustacœːvʏm
 brjósta-haldara,prjoustahaltara
-brjósta-haldarann,prjoustahaltaranʏm
+brjósta-haldarann,prjoustahaltaran
+brjósta-haldaranum,prjoustahaltaranʏm
 brjósta-höldurum,prjoustahœltʏrʏm
 brjósta-mjólkinni,prjoustaːmjoul̥cɪnɪ
 brjóstakrabba-mein,prjoustakrapamein
@@ -20923,7 +20927,8 @@ daggar-dropanna,taːkartrɔpana
 daginn,taiːjɪn
 dagleg,taɣlɛɣ
 daglega,taɣlɛɣa
-daglegar,taɣlɛɣrar
+daglegar,taɣlɛɣar
+daglegrar,taɣlɛɣrar
 daglegra,taɣlɛɣra
 daglegri,taɣlɛɣrɪ
 daglegs,taɣlɛxs
@@ -23456,7 +23461,7 @@ fag-menn,faɣmɛn
 fag-mennsku,faɣmɛnskʏ
 fag-stjóra,faxstjoura
 fag-stjóri,faxstjourɪ
-fag-stétt,faɣstjɛht
+fag-stétt,faxstjɛht
 fag-tengdar,faɣtʰeiŋtar
 fag-tengdi,faɣtʰeiŋtɪ
 fagfjárfesta-sjóðurinn,faɣfjaurfɛstasjouːðʏrɪn
@@ -24059,14 +24064,14 @@ fimmtu,fɪm̥tʏ
 fimmtu-dag,fɪm̥tʏtaːɣ
 fimmtu-daginn,fɪm̥tʏtaijɪn
 fimmtu-dags,fɪm̥tʏtaxs
-fimmtu-dagsins,fɪm̥tʏtaxsɪns
+fimmtu-dagsins,fɪm̥tʏtaksɪns
 fimmtu-dagurinn,fɪm̥tʏtaːɣʏrɪn
 fimmtu-degi,fɪm̥tʏteiːjɪ
 fimmtu-deginum,fɪm̥tʏteiːjɪnʏm
 fimmtudaga,fɪm̥tʏtaːɣa
-fimmtudags-kvöld,fɪm̥tʏtaxskʰvœlt
-fimmtudags-kvöldið,fɪm̥tʏtaxskʰvœltɪð
-fimmtudags-kvöldum,fɪm̥tʏtaxskʰvœltʏm
+fimmtudags-kvöld,fɪm̥tʏtakskʰvœlt
+fimmtudags-kvöldið,fɪm̥tʏtakskʰvœltɪð
+fimmtudags-kvöldum,fɪm̥tʏtakskʰvœltʏm
 fimmtudags-morgni,fɪm̥tʏtaksmɔrtnɪ
 fimmtudags-morgnum,fɪm̥tʏtaksmɔrtnʏm
 fimmtudögum,fɪm̥tʏtœːɣʏm
@@ -26920,12 +26925,13 @@ félag-ana,fjɛːlaɣana
 félag-anna,fjɛːlaɣana
 félag-arnir,fjɛːlaɣatnɪr
 félaga,fjɛːlaɣa
-félaga-samtaka,fjɛːlaɣasamtʰaka
-félaga-samtökum,fjɛːlaɣsamtœkʏm
+# félaga-samtaka,fjɛːlaɣasamtʰaka
+# félaga-samtökum,fjɛːlaɣasamtœkʏm
+# félag-samtökum,fjɛːlaxsamtœkʏm
 félaga-skráin,fjɛːlaɣaskrauːɪn
 félagar,fjɛːlaɣar
 félaginn,fjɛːlaijɪn
-félagins,fjɛːlaɣsɪns
+félagins,fjɛːlaxsɪns
 félaginu,fjɛːlaiɪnʏ
 félagið,fjɛːlaijɪð
 félags,fjɛːlaxs
@@ -27148,16 +27154,16 @@ föstu-dag,fœstʏtaːɣ
 föstu-daga,fœstʏtaːɣa
 föstu-daginn,fœstʏtaijɪn
 föstu-dags,fœstʏtaxs
-föstu-dagsins,fœstʏtaxsɪns
+föstu-dagsins,fœstʏtaksɪns
 föstu-dagurinn,fœstʏtaːɣʏrɪn
 föstu-degi,fœstʏteiːjɪ
 föstu-deginum,fœstʏteiːjɪnʏm
 föstu-dögum,fœstʏtœːɣʏm
-föstudags-kvöld,fœstʏtaxskʰvœlt
-föstudags-kvöldi,fœstʏtaxskʰvœltɪ
-föstudags-kvöldið,fœstʏtaxskʰvœltɪð
-föstudags-kvöldum,fœstʏtaxskʰvœltʏm
-föstudags-morgun,fœstʏtaxsmɔrkʏn
+föstudags-kvöld,fœstʏtakskʰvœlt
+föstudags-kvöldi,fœstʏtakskʰvœltɪ
+föstudags-kvöldið,fœstʏtakskʰvœltɪð
+föstudags-kvöldum,fœstʏtakskʰvœltʏm
+föstudags-morgun,fœstʏtaksmɔrkʏn
 föstum,fœstʏm
 föstur,fœstʏr
 föt-urnar,fœːtʏtnar
@@ -29076,7 +29082,7 @@ gægðust,caiɣðʏst
 gæj-arnir,kaijatnɪr
 gælu-nafnið,caiːlʏnapnɪð
 gær-dag,cairtaɣ
-gær-dagsins,cairtaxsɪns
+gær-dagsins,cairtaksɪns
 gær-kvöldi,cair̥kʰvœltɪ
 gær-morgun,cairmɔrkʏn
 gæslu-maðurinn,caistlʏmaːðʏrɪn
@@ -29344,7 +29350,7 @@ hag-kvæmara,haɣkʰvaimara
 hag-kvæmari,haɣkʰvaimarɪ
 hag-kvæmast,haɣkʰvaimast
 hag-kvæmastan,haɣkʰvaimastan
-hag-kvæmasti,haxkʰvaimastɪ
+hag-kvæmasti,haɣkʰvaimastɪ
 hag-kvæmri,haɣkʰvaimrɪ
 hag-kvæmt,haɣkʰvaim̥t
 hag-kvæmum,haɣkʰvaimʏm
@@ -32663,18 +32669,18 @@ hvernig,kʰvɛtnɪɣ
 hverra,kʰvɛra
 hverrar,kʰvɛrar
 hverri,kʰvɛrɪ
-hvers-dagsins,kʰvɛr̥staxsɪns
+hvers-dagsins,kʰvɛr̥staksɪns
 hvers-konar,kʰvɛr̥skʰɔnar
 hvers-vegna,kʰvɛr̥svɛkna
 hversdags-brúks,kʰvɛr̥stakspruks
-hversdags-leg,kʰvɛr̥staxstlɛɣ
-hversdags-lega,kʰvɛr̥staxstlɛɣa
-hversdags-legt,kʰvɛr̥staxstlɛxt
-hversdags-legum,kʰvɛr̥staxstlɛɣʏm
+hversdags-leg,kʰvɛr̥stakstlɛɣ
+hversdags-lega,kʰvɛr̥stakstlɛɣa
+hversdags-legt,kʰvɛr̥stakstlɛxt
+hversdags-legum,kʰvɛr̥stakstlɛɣʏm
 hversdags-leika,kʰvɛr̥stakstleika
 hversdags-leiknum,kʰvɛr̥stakstleihknʏm
-hversdagsleik-ann,kʰvɛr̥staxstleiːkan
-hversdagslífinu,kʰvɛr̥staxstliːvɪnʏ
+hversdagsleik-ann,kʰvɛr̥stakstleiːkan
+hversdagslífinu,kʰvɛr̥stakstliːvɪnʏ
 hversins,kʰvɛr̥sɪns
 hverskyns,kʰvɛr̥scʰɪns
 hverslags,kʰvɛr̥stlaxs
@@ -34061,7 +34067,8 @@ kirkju-teigi,cʰɪr̥cʏteijɪ
 kirkju-tengdum,cʰɪr̥cʏtʰeiŋtʏm
 kirkju-torg,cʰɪr̥cʏtɔːrk
 kirkju-tröppunum,cʰɪr̥cʏtrœhpɔnʏm
-kirkju-turninn,cʰɪr̥cʏtʏrtnɪnʏm
+kirkju-turninum,cʰɪr̥cʏtʏrtnɪnʏm
+kirkju-turninn,cʰɪr̥cʏtʏrtnɪn
 kirkju-tónlistin,cʰɪr̥cʏtʰounlɪstɪn
 kirkju-túns,cʰɪr̥cʏtʰuns
 kirkju-varðar,cʰɪr̥cʏvarðar
@@ -34857,10 +34864,10 @@ krabba-meini,kʰrapameiːnɪ
 krabba-meinið,kʰrapameiːnɪð
 krabba-meins,kʰrapameins
 krabba-meins-félagið,kʰrapameinsfjɛːlaijɪð
-krabba-meins-félags,kʰrapameinsfjɛːlaɣs
+krabba-meins-félags,kʰrapameinsfjɛːlaxs
 krabba-meins-sjúklinga,kʰrapameinsjuhkliŋka
 krabba-veiði-svæðin,kʰrapaveiðɪsvaiːðɪn
-krabbameins-félagsins,kʰrapameinsfjɛːlaɣsɪns
+krabbameins-félagsins,kʰrapameinsfjɛːlaxsɪns
 krabbameins-lyf,kʰrapameinslɪːv
 krabbameins-ráðgjafar-innar,kʰrapameinsrauðcavarɪnar
 krabbameins-ráðgjöf,kʰrapameinsrauðcœv
@@ -36358,7 +36365,7 @@ laugar-dag,lœiːɣartaːɣ
 laugar-daga,lœiːɣartaːɣa
 laugar-daginn,lœiːɣartaijɪn
 laugar-dags,lœiːɣartaxs
-laugar-dagsins,lœiːɣartaxsɪns
+laugar-dagsins,lœiːɣartaksɪns
 laugar-dagurinn,lœiɣartaːɣʏrɪn
 laugar-dal,lœiːɣatal
 laugar-dalnum,lœiːɣartalnʏm
@@ -36373,19 +36380,19 @@ laugar-nesi,lœiːɣanɛːsɪ
 laugar-nestanga,lœiːɣanɛːstauːŋka
 laugar-vatni,lœiːɣarvahtnɪ
 laugar-ási,lœiːɣarausɪ
-laugardags-blað,lœiːɣartaxsplaːð
-laugardags-gangan,lœiːɣartaxskauŋkan
-laugardags-kvöld,lœiːɣartaxskʰvœlt
-laugardags-kvöldi,lœiːɣartaxskʰvœltɪ
+laugardags-blað,lœiːɣartaksplaːð
+laugardags-gangan,lœiːɣartakskauŋkan
+laugardags-kvöld,lœiːɣartakskʰvœlt
+laugardags-kvöldi,lœiːɣartakskʰvœltɪ
 laugardags-kvöldinu,lœiɣartakskʰvœltɪnʏ
-laugardags-kvöldið,lœiːɣartaxskʰvœltɪð
-laugardags-kvöldum,lœiːɣartaxskʰvœltʏm
-laugardags-líf,lœiːɣartaxstliːv
-laugardags-morgna,lœiːɣartaxsmɔrtna
-laugardags-morgni,lœiːɣartaxsmɔrtnɪ
-laugardags-morgnum,lœiːɣartaxsmɔrtnʏm
-laugardags-morgun,lœiːɣartaxsmɔrkʏn
-laugardags-morguninn,lœiːɣartaxsmɔrkʏnɪn
+laugardags-kvöldið,lœiːɣartakskʰvœltɪð
+laugardags-kvöldum,lœiːɣartakskʰvœltʏm
+laugardags-líf,lœiːɣartakstliːv
+laugardags-morgna,lœiːɣartaksmɔrtna
+laugardags-morgni,lœiːɣartaksmɔrtnɪ
+laugardags-morgnum,lœiːɣartaksmɔrtnʏm
+laugardags-morgun,lœiːɣartaksmɔrkʏn
+laugardags-morguninn,lœiːɣartaksmɔrkʏnɪn
 laugardalinn,lœiːɣartaːlɪn
 laugardals-höll,lœiːɣartalshœtl̥
 laugardals-höllinni,lœiːɣartalshœtlɪnɪ
@@ -37362,7 +37369,7 @@ ljós-bláa,ljouːsplaua
 ljós-blárri,ljouːsplaurɪ
 ljós-bláu,ljouːsplauʏ
 ljós-bláum,ljouːsplauʏm
-ljós-broti,ljouːsprɔðtɪ
+ljós-broti,ljouːsprɔtɪ
 ljós-einkenni,ljouːseiɲcʰɛnɪ
 ljós-geisla,ljouːsceistla
 ljós-gjafa,ljouːscava
@@ -37554,7 +37561,7 @@ loftsal,lɔftsal
 loftsalurinn,lɔftsalʏrɪn
 loftsins,lɔftsɪns
 loftskeyta-maðurinn,lɔftsceitamaːðʏrɪn
-loftslags-breytingar,lɔftstlaɣspreiːtiŋkar
+loftslags-breytingar,lɔftstlaxspreiːtiŋkar
 loftum,lɔftʏm
 loftur,lɔftʏr
 lofuðu,lɔftʏðʏ
@@ -38274,7 +38281,8 @@ lögreglu-yfirvöld,lœɣrɛklʏɪvɪrvœlt
 lögreglu-þjón,lœɣrɛklʏθjoun
 lögreglu-þjóna,lœɣrɛklʏθjouna
 lögreglu-þjónar-nir,lœɣrɛklʏθjounatnɪr
-lögreglu-þjóninn,lœɣrɛklʏθjoutnɪn
+lögreglu-þjónninn,lœɣrɛklʏθjoutnɪn
+lögreglu-þjóninn,lœɣrɛklʏθjounɪn
 lögreglu-þjónum,lœɣrɛklʏθjounʏm
 lögreglu-þjónunum,lœɣrɛklʏθjounɔnʏm
 lögunum,lœːɣɔnʏm
@@ -39580,8 +39588,8 @@ mið-stýringu,mɪðstiriŋkʏ
 mið-svæðinu,mɪðsvaiðɪnʏ
 mið-svæðis,mɪðsvaiðɪs
 mið-vangi,mɪðvauɲcɪ
-mið-vikudags-kvöldið,mɪðvɪkʏtaxskʰvœltɪð
-mið-vikudags-kvöldum,mɪðvɪkʏtaxskʰvœltʏm
+mið-vikudags-kvöldið,mɪðvɪkʏtakskʰvœltɪð
+mið-vikudags-kvöldum,mɪðvɪkʏtakskʰvœltʏm
 mið-öldum,mɪːðœltʏm
 miða-pantanir,mɪːðapʰan̥tanɪr
 miða-sölu,mɪːðasœːlʏ
@@ -39638,14 +39646,14 @@ miðuðust,mɪːðʏðʏst
 miðviku-dag,mɪðvɪkʏtaːɣ
 miðviku-daga,mɪðvɪkʏtaːɣa
 miðviku-daginn,mɪðvɪkʏtaijɪn
-miðviku-dags,mɪðvɪkʏtaxs
+miðviku-dags,mɪðvɪkʏtaks
 miðviku-dagurinn,mɪðvɪkʏtaɣːʏrɪn
 miðviku-degi,mɪðvɪkʏteiːjɪ
 miðviku-deginum,mɪðvɪkʏteiːjɪnʏm
 miðviku-dögum,mɪðvɪkʏtœːɣʏm
-miðvikudags-kvöld,mɪðvɪkʏtaxskʰvœlt
+miðvikudags-kvöld,mɪðvɪkʏtakskʰvœlt
 miðvikudags-kvöldinu,mɪðvɪkʏtakskʰvœltɪnʏ
-miðvikudags-morgna,mɪðvɪkʏtaxsmɔrtna
+miðvikudags-morgna,mɪðvɪkʏtaksmɔrtna
 mjakast,mjaːkast
 mjakað-ist,mjaːkaðɪst
 mjakaði,mjaːkaðɪ
@@ -39760,7 +39768,7 @@ morgun-blaðinu,mɔrkʏnplaːðɪnʏ
 morgun-blaðsins,mɔrkʏnplaðsɪns
 morgun-bænir,mɔrkʏnpaiːnɪr
 morgun-daginn,mɔrkʏntaijɪn
-morgun-dagsins,mɔrkʏntaxsɪns
+morgun-dagsins,mɔrkʏntaksɪns
 morgun-dagurinn,mɔrkʏntaːɣʏrɪn
 morgun-fréttir,mɔrkʏnfrjɛhtɪr
 morgun-fundi,mɔrkʏnfʏntɪ
@@ -40154,17 +40162,17 @@ mánu-dag,mauːnʏtaːɣ
 mánu-daga,mauːnʏtaːɣa
 mánu-daginn,mauːnʏtaijɪn
 mánu-dags,mauːnʏtaxs
-mánu-dagsins,mauːnʏtaxsɪns
+mánu-dagsins,mauːnʏtaksɪns
 mánu-dagurinn,mauːnʏtaːɣʏrɪn
 mánu-degi,mauːnʏteiːjɪ
 mánu-deginum,mauːnʏteiːjɪnʏm
 mánu-dögum,mauːnʏtœːɣʏm
-mánudags-kvöld,mauːnʏtaxskʰvœlt
-mánudags-kvöldið,mauːnʏtaxskʰvœltɪð
-mánudags-kvöldum,mauːnʏtaxskʰvœltʏm
-mánudags-morgni,mauːnʏtaxsmɔrtnɪ
-mánudags-morgun,mauːnʏtaxsmɔrkʏn
-mánudags-morguninn,mauːnʏtaxsmɔrkʏnɪn
+mánudags-kvöld,mauːnʏtakskʰvœlt
+mánudags-kvöldið,mauːnʏtakskʰvœltɪð
+mánudags-kvöldum,mauːnʏtakskʰvœltʏm
+mánudags-morgni,mauːnʏtaksmɔrtnɪ
+mánudags-morgun,mauːnʏtaksmɔrkʏn
+mánudags-morguninn,mauːnʏtaksmɔrkʏnɪn
 mánuði,mauːnʏðɪ
 mánuðina,mauːnʏðɪna
 mánuðinn,mauːnʏðɪn
@@ -40179,7 +40187,8 @@ más-sonar,mauːsɔnar
 másson,mauːsɔn
 mátaði,mauːtaðɪ
 mátt-farin,mauhtfarɪn
-mátt-lausa,mauhtlœisra
+mátt-lausa,mauhtlœisa
+mátt-lausra,mauhtlœisra
 mátt-lausari,mauhtlœisarɪ
 mátt-litlir,mauhtlɪhtlɪr
 mátt-lítil,mauhtlitɪl
@@ -42254,7 +42263,7 @@ puttana,pʰʏhtana
 puttann,pʰʏhtan
 puttar,pʰʏhtar
 puttunum,pʰʏhtɔnʏm
-pyangyong,pʰɪauŋkjɔŋk
+pyangyong,pʰɪauŋjɔŋk
 pylsu-partýinu,pʰɪlsʏpʰar̥tiɪnʏ
 pyntingum,pʰɪn̥tiŋkʏm
 pyttur,pʰɪhtʏr
@@ -42492,7 +42501,7 @@ rafrænni,ravraitnɪ
 rafrænt,ravrain̥t
 rafrænu,ravrainʏ
 rafsegul-bylgjur,rafsɛɣʏlpɪlcʏr
-rafta-hlíð,raftahlið
+rafta-hlíð,raftal̥ið
 raftákn,raftʰauhkn̥
 raftæki,raftʰaicɪ
 raftækni-ráðsins,raːvtʰaihknɪrauðsɪns
@@ -43012,7 +43021,7 @@ reykja-byggð,reiːcapɪɣð
 reykja-dal,reiːcataːl
 reykja-dalnum,reiːcatalnʏm
 reykja-garðs,reiːcakarðs
-reykja-hlíð,reiːcahliːð
+reykja-hlíð,reiːcal̥iːð
 reykja-nesbrautinni,reiːcanɛsprœiːtɪnɪ
 reykja-nesi,reiːcanɛːsɪ
 reykja-ness,reiːcanɛːs
@@ -43083,7 +43092,7 @@ reyndum,reintʏm
 reyndur,reintʏr
 reyndust,reintʏst
 reyndustu,reintʏstʏ
-reyni-hlíð,reiːnɪhl̥iːð
+reyni-hlíð,reiːnɪl̥iːð
 reynir,reiːnɪr
 reynis,reiːnɪs
 reynis-dóttir,reiːnɪstouhtɪr
@@ -43919,7 +43928,7 @@ rúbiks,ruːpɪks
 rúblur,ruplʏr
 rúdolf,ruːtɔlv
 rúg-brauðið,ruːprœiðɪð
-rúg-hveiti,ruxkʰveitɪ
+rúg-hveiti,ruːkʰveitɪ
 rúllar,rular
 rúllað,rulað
 rúllaði,rulaðɪ
@@ -45639,7 +45648,7 @@ sjúkra,sjuːkra
 sjúkra-berar,sjuːkrapɛːrar
 sjúkra-bifreið,sjuːkrapɪvreið
 sjúkra-bíl,sjuːkrapiːl
-sjúkra-bílinn,sjuːkrapilnʏm
+sjúkra-bílinn,sjuːkrapilɪn
 sjúkra-bíllinn,sjuːkrapitlɪn
 sjúkra-bílnum,sjuːkrapilnʏm
 sjúkra-flugi,sjuːkraflʏijɪ
@@ -45825,7 +45834,7 @@ skartar,skar̥tar
 skartgripa-hönnuða,skar̥tkrɪpahœnʏða
 skarði,skarðɪ
 skarðið,skarðɪð
-skarðs-hlíð,skarðshlið
+skarðs-hlíð,skarðsl̥ið
 skatt-eftirlitinu,skatɛftɪrlɪtɪnʏ
 skatt-framtals,skahtframtʰals
 skatt-greiðenda,skahtkreiðɛnta
@@ -46006,7 +46015,7 @@ skemmti-stað,scɛm̥tɪstaːð
 skemmti-staða,scɛm̥tɪstaːða
 skemmti-stöðum,scɛm̥tɪstœːðʏm
 skemmti-sögur,scɛm̥tɪsœːɣʏr
-skemmtidag-skrá,scɛm̥tɪtaxskrau
+#skemmti-dagskrá,scɛm̥tɪtaxskrau
 skemmtiferða-skipa,scɛm̥tɪfɛrðascɪːpa
 skemmtigarðinn,scɛm̥tɪkarðɪn
 skemmtigarðinum,scɛm̥tɪkarðɪnʏm
@@ -46710,7 +46719,7 @@ skrúbb-aði,skrupaðɪ
 skrúbba,skrupa
 skrúbbkrem,skrupkʰrɛm
 skrúf-aði,skruːaðɪ
-skrúf-blýantur,skruːplian̥tʏr
+skrúf-blýantur,skruːplijan̥tʏr
 skrúfa,skruːa
 skrúfar,skruːar
 skrúfað,skruːað
@@ -47485,57 +47494,57 @@ slátrunar,stlauːtrʏnar
 sláttu-þyrlan,stlauhtʏθɪrtlan
 sláttur,stlauhtʏr
 slátur,stlauːtʏr
-slátur-folöldunum,stlauːtʏrfɔːlœltɔnʏm
-slátur-félags,stlauːtʏrfjɛːlaɣs
-slátur-félagsins,slauːtʏrfjɛːlaxsɪns
-slátur-fénu,stlauːtʏrfjɛːnʏ
-slátur-húsinu,stlauːtʏrhuːsɪnʏ
-slátur-húsið,stlauːtʏrhuːsɪð
-slátur-hússins,stlauːtʏrhusɪns
-slátur-húsum,stlauːtʏrhuːsʏm
-slægj-ast,stlaijast
-slægju,stlaiːʏ
-slæman,stlaiːman
-slæmar,stlaiːmar
-slæmdi,stlaimtɪ
-slæmir,stlaiːmɪr
-slæmrar,stlaimrar
-slæmri,stlaimrɪ
-slæmum,stlaiːmʏm
-slæmur,stlaiːmʏr
-slæpast,stlaiːpast
-slætti,stlaihtɪ
-slættir,stlaihtɪr
-slæðingur,stlaiːðiŋkʏr
-slæðum,stlaiːðʏm
-slæður,stlaiːðʏr
-slétt-aði,stljɛhtaðɪ
-slétt-baki,stljɛhtpacɪ
-slétt-blaða,stljɛhtplaða
-slétt-greitt,stljɛhtkreiht
-slétt-urnar,stljɛhtʏrtnar
-slétta,stljɛhta
-sléttan,stljɛhtan
-sléttar,stljɛhtar
-sléttir,stljɛhtɪr
-sléttu,stljɛhtʏ
-sléttu-hlíð,stljɛhtʏl̥iːð
-sléttu-vegi,stljɛhtʏveijɪ
-sléttum,stljɛhtʏm
-sléttunnar,stljɛhtʏnar
-sléttunum,stljɛhtɔnʏm
-sléttur,stljɛhtʏr
-slíkan,stliːkan
-slíkar,stliːkan
-slíkir,stliːcɪr
-slíkra,stliːkra
-slíkrar,stliːkrar
-slíkri,stliːkrɪ
-slíkum,stliːkʏm
-slíkur,stliːkʏr
-slím-losandi,stlimlɔsantɪ
-slím-pokum,stliːmpʰɔkʏm
-slímið,stliːmɪð
+# slátur-folöldunum,stlauːtʏrfɔːlœltɔnʏm
+# slátur-félags,stlauːtʏrfjɛːlaxs
+# slátur-félagsins,slauːtʏrfjɛːlaxsɪns
+# slátur-fénu,stlauːtʏrfjɛːnʏ
+# slátur-húsinu,stlauːtʏrhuːsɪnʏ
+# slátur-húsið,stlauːtʏrhuːsɪð
+# slátur-hússins,stlauːtʏrhusɪns
+# slátur-húsum,stlauːtʏrhuːsʏm
+# slægjast,stlaijast
+# slægju,stlaiːʏ
+# slæman,stlaiːman
+# slæmar,stlaiːmar
+# slæmdi,stlaimtɪ
+# slæmir,stlaiːmɪr
+# slæmrar,stlaimrar
+# slæmri,stlaimrɪ
+# slæmum,stlaiːmʏm
+# slæmur,stlaiːmʏr
+# slæpast,stlaiːpast
+# slætti,stlaihtɪ
+# slættir,stlaihtɪr
+# slæðingur,stlaiːðiŋkʏr
+# slæðum,stlaiːðʏm
+# slæður,stlaiːðʏr
+# slétt-aði,stljɛhtaðɪ
+# slétt-baki,stljɛhtpacɪ
+# slétt-blaða,stljɛhtplaða
+# slétt-greitt,stljɛhtkreiht
+# slétt-urnar,stljɛhtʏrtnar
+# slétta,stljɛhta
+# sléttan,stljɛhtan
+# sléttar,stljɛhtar
+# sléttir,stljɛhtɪr
+# sléttu,stljɛhtʏ
+# sléttu-hlíð,stljɛhtʏl̥iːð
+# sléttu-vegi,stljɛhtʏveijɪ
+# sléttum,stljɛhtʏm
+# sléttunnar,stljɛhtʏnar
+# sléttunum,stljɛhtɔnʏm
+# sléttur,stljɛhtʏr
+# slíkan,stliːkan
+# slíkar,stliːkan
+# slíkir,stliːcɪr
+# slíkra,stliːkra
+# slíkrar,stliːkrar
+# slíkri,stliːkrɪ
+# slíkum,stliːkʏm
+# slíkur,stliːkʏr
+# slím-losandi,stlimlɔsantɪ
+# slím-pokum,stliːmpʰɔkʏm
+# slímið,stliːmɪð
 slíðri,stliðrɪ
 slíðrum,stliðrʏm
 slíður,stliːðʏr
@@ -49556,7 +49565,7 @@ stríðni,striðnɪ
 stríðnis-lega,striðnɪstlɛɣa
 stríðs,striðs
 stríðs-glæpi,striðsklaipɪ
-stríðs-hljómkviðuna,striːðshljoumkʰvɪðʏna
+stríðs-hljómkviðuna,striːðsl̥joumkʰvɪðʏna
 stríðs-hrjáða,striðsr̥jauːða
 stríðs-lok,striðstlɔːk
 stríðs-lokum,striðstlɔːkʏm
@@ -49961,7 +49970,7 @@ stór-framkvæmdir,stour̥framkʰvaimtɪr
 stór-fyrirtæki,stour̥fɪrɪtaiːcɪ
 stór-fyrirtækja,stour̥fɪrɪtaiːca
 stór-fyrirtækjum,stour̥fɪrɪtaiːcʏm
-stór-glæsileg,stourklaisɪlɛk
+stór-glæsileg,stourklaisɪlɛɣ
 stór-góðir,stourkouðɪr
 stór-góður,stourkouðʏr
 stór-götu,stourkœtʏ
@@ -50341,7 +50350,7 @@ sunnu-dag,sʏnʏtaːɣ
 sunnu-daga,sʏnʏtaːɣa
 sunnu-daginn,sʏnʏtaijɪn
 sunnu-dags,sʏnʏtaxs
-sunnu-dagsins,sʏnʏtaxsɪns
+sunnu-dagsins,sʏnʏtaksɪns
 sunnu-dagurinn,sʏnʏtaːɣʏrɪn
 sunnu-degi,sʏnʏteiːjɪ
 sunnu-deginum,sʏnʏteijɪnʏm
@@ -50352,18 +50361,18 @@ sunnu-kórsins,sʏnʏkʰour̥sɪns
 sunnudaga-skóla,sʏnʏtaːɣaskouːla
 sunnudaga-skólanum,sʏnʏtaːɣaskouːlanʏm
 sunnudaga-skólinn,sʏnʏtaːɣaskouːlɪn
-sunnudags-blað,sʏnʏtaxsplaːð
-sunnudags-blaði,sʏnʏtaxsplaðsɪns
+sunnudags-blað,sʏnʏtaksplaːð
+sunnudags-blaði,sʏnʏtaksplaðsɪns
 sunnudags-bolti,sʏnʏtakspɔl̥tɪ
-sunnudags-bíltúr-ana,sʏnʏtaxspilturana
-sunnudags-kaffi,sʏnʏtaxskʰafɪ
-sunnudags-kvöld,sʏnʏtaxskʰvœlt
-sunnudags-kvöldið,sʏnʏtaxskʰvœltɪð
-sunnudags-kvöldum,sʏnʏtaxskʰvœltʏm
+sunnudags-bíltúr-ana,sʏnʏtakspilturana
+sunnudags-kaffi,sʏnʏtakskʰafɪ
+sunnudags-kvöld,sʏnʏtakskʰvœlt
+sunnudags-kvöldið,sʏnʏtakskʰvœltɪð
+sunnudags-kvöldum,sʏnʏtakskʰvœltʏm
 sunnudags-markaðurinn,sʏnʏtaksmar̥kaðʏrɪn
-sunnudags-morgni,sʏnʏtaxsmɔrtnɪ
-sunnudags-morgnum,sʏnʏtaxsmɔrtnʏm
-sunnudags-morgun,sʏnʏtaxsmɔrkʏn
+sunnudags-morgni,sʏnʏtaksmɔrtnɪ
+sunnudags-morgnum,sʏnʏtaksmɔrtnʏm
+sunnudags-morgun,sʏnʏtaksmɔrkʏn
 surtsey,sʏr̥tsei
 sussaði,sʏsaðɪ
 sussum-svei,sʏsʏmsveiː
@@ -54592,8 +54601,8 @@ vefja-ræktunin,vɛvjaraixtʏnɪn
 vefja-skurð,vɛvjaskʏrð
 vefjagigt,vɛvjacɪxt
 vefjagigtar,vɛvjacɪxtar
-vefjagigtar-hópar,vɛvjarcɪxtarhouːpar
-vefjagigtar-hópur,vɛvjarcɪxtarhouːpʏr
+vefjagigtar-hópar,vɛvjacɪxtarhouːpar
+vefjagigtar-hópur,vɛvjacɪxtarhouːpʏr
 vefjar-ins,vɛvjarɪns
 vefjast,vɛvjast
 vefjum,vɛvjʏm
@@ -54713,7 +54722,7 @@ veikan,veiːkan
 veikar,veiːkar
 veikari,veiːkarɪ
 veikin,veiːcɪn
-veikinda-blæinn,veiːcɪntaplaiːɪn
+veikinda-blæinn,veiːcɪntaplaiːjɪn
 veikinda-réttar,veiːcɪntarjɛhtar
 veikinda-stúss,veiːcɪntastus
 veikindin,veiːcɪntɪn
@@ -55011,7 +55020,8 @@ verkalýðs-hreyfingar-innar,vɛr̥kaliðsr̥eiːviŋkarɪnar
 verkalýðs-hreyfingin,vɛr̥kaliðsr̥eiːviɲcɪn
 verkalýðs-hreyfingunni,vɛr̥kaliðsr̥eiːviŋkʏnɪ
 verkalýðs-hömlur,vɛr̥kaliðshœmlʏr
-verkamanna-flokkinn,vɛr̥kamanaflɔhkʏrɪn
+verkamanna-flokkurinn,vɛr̥kamanaflɔhkʏrɪn
+verkamanna-flokkinn,vɛr̥kamanaflɔhcɪn
 verkamanna-flokknum,vɛr̥kamanaflɔhknʏm
 verkamanna-flokksins,vɛr̥kamanaflɔhksɪns
 verkamanna-flokkurinn,vɛr̥kamanaflɔhkʏrɪn
@@ -56476,7 +56486,8 @@ víðistaðasóknar,viːðɪstaðasouhknar
 víðs-fjarri,viðsfjarɪ
 víðs-vegar,viðsvɛɣar
 víðáttu,viːðauhtʏ
-víðáttu-mikil,viːðauhtʏmɪːcɪtl̥
+víðáttu-mikill,viːðauhtʏmɪːcɪtl̥
+víðáttu-mikil,viːðauhtʏmɪːcɪl
 víólu-leikari,viːjoulʏleiːkarɪ
 vöfflur,vœflʏr
 vöflur,vœflʏr
@@ -58131,7 +58142,8 @@ yukatanskagans,jʏːkatanskaːɣans
 ógeð-fellt,ouːcɛðfɛl̥t
 ógeðið,ouːcɛðɪð
 ógeðs-leg,ouːcɛðstlɛɣ
-ógeðs-lega,ouːcɛðstlɛɣra
+ógeðs-legra,ouːcɛðstlɛɣra
+ógeðs-lega,ouːcɛðstlɛɣa
 ógeðs-legt,ouːcɛðstlɛxt
 ógeðs-legu,ouːcɛðstlɛɣʏ
 ógjarn,ouːcatn̥
@@ -58337,7 +58349,8 @@ yukatanskagans,jʏːkatanskaːɣans
 ólögmæt,ouːlœɣmait
 ólöstuðum,ouːlœstʏðʏm
 ólýsan-leg,ouːlisanlɛɣ
-ólýsan-lega,ouːlisanlɛɣra
+ólýsan-lega,ouːlisanlɛɣa
+ólýsan-legra,ouːlisanlɛɣra
 ólýsan-legri,ouːlisanlɛɣrɪ
 ómagar,ouːmaɣar
 ómakið,ouːmacɪð
@@ -60125,12 +60138,12 @@ yukatanskagans,jʏːkatanskaːɣans
 þriðju-deginum,θrɪðjʏteiːjɪnʏm
 þriðju-dögum,θrɪðjʏtœːɣʏm
 þriðjudag-kvöld,θrɪðjʏtaɣkʰvœlt
-þriðjudags-blað,θrɪðjʏtaxsplaːð
-þriðjudags-ganga,θrɪðjʏtaxskauŋka
-þriðjudags-kvöld,θrɪðjʏtaxskʰvœlt
-þriðjudags-kvöldið,θrɪðjʏtaxskʰvœltɪð
-þriðjudags-kvöldum,θrɪðjʏtaxskʰvœltʏm
-þriðjudags-morgun,θrɪðjʏtaxsmɔrkʏn
+þriðjudags-blað,θrɪðjʏtaksplaːð
+þriðjudags-ganga,θrɪðjʏtakskauŋka
+þriðjudags-kvöld,θrɪðjʏtakskʰvœlt
+þriðjudags-kvöldið,θrɪðjʏtakskʰvœltɪð
+þriðjudags-kvöldum,θrɪðjʏtakskʰvœltʏm
+þriðjudags-morgun,θrɪðjʏtaksmɔrkʏn
 þriðjunga-reglan,θrɪðjuŋkarɛklan
 þrjósk-aðist,θrjouskaðɪst
 þrjósk-unni,θrjouskʏnɪ
@@ -60671,19 +60684,19 @@ yukatanskagans,jʏːkatanskaːɣans
 þögninni,θœknɪnɪ
 þögnum,θœknʏm
 þögnuðu,θœknɪnɪ
-þögulir,θœːɣʏlɪr
-þögull,θœːɣʏtl̥
-þögult,θœːɣʏl̥t
-þögðum,θœɣðʏm
-þökkum,θœhkʏm
-þökkuð,θœhkʏð
-þökkuðu,θœhkʏðʏ
-þökkuðum,θœhkʏðʏm
-þöktum,θœxtʏm
-þökunum,θœːkɔnʏm
-þöndum,θœntʏm
-þöndust,θœntʏst
-þöngla-bakka,θœiŋlapahka
+# þögulir,θœːɣʏlɪr
+# þögull,θœːɣʏtl̥
+# þögult,θœːɣʏl̥t
+# þögðum,θœɣðʏm
+# þökkum,θœhkʏm
+# þökkuð,θœhkʏð
+# þökkuðu,θœhkʏðʏ
+# þökkuðum,θœhkʏðʏm
+# þöktum,θœxtʏm
+# þökunum,θœːkɔnʏm
+# þöndum,θœntʏm
+# þöndust,θœntʏst
+# þöngla-bakka,θœiŋlapahka
 þörfin,θœrvɪn
 þörfina,θœrvɪna
 þörfinni,θœrvɪnɪ
