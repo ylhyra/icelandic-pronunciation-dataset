@@ -1579,7 +1579,7 @@
 # athyglisverða; athyglis-verða,aːtɪklɪsvɛrða
 # athyglisverðar; athyglis-verðar,aːtɪklɪsvɛrðar
 # athyglisverðasta; athyglis-verðasta,aːtɪklɪsvɛrðasta
-# athyglisverðri; athyglis-verðri,aːtʰɪklɪsvɛrðrɪ
+# athyglisverðri; athyglis-verðri,aːtɪklɪsvɛrðrɪ
 # athyglisverðu; athyglis-verðu,aːtɪklɪsvɛrðʏ
 # athyglisverðum; athyglis-verðum,aːtɪklɪsvɛrðʏm
 # athyglisverður; athyglis-verður,aːtɪklɪsvɛrðʏr
@@ -2083,7 +2083,7 @@
 # aðaleikarinn; aðal-eikarinn,aːðaleiːkarɪn
 # aðaleinkenni; aðal-einkenni,aːðaleiɲcʰɛnɪ
 # aðaleinkunn; aðal-einkunn,aːðaleiŋ̊kʏn
-# aðaleyjarnar; aðal-eyjarnar,aːðaleiatnar
+# aðaleyjarnar; aðal-eyjarnar,aːðaleijatnar
 # aðalfjörið; aðal-fjörið,aːðalfjœːrɪð
 # aðalframkvæmdastjóri; aðal-framkvæmda-stjóri,aːðalframkʰvaimtastjouːrɪ
 # aðalfréttirnar; aðal-fréttir-nar,aːðalfrjɛhtɪtnar
@@ -2262,8 +2262,8 @@
 # aðgerða; aðgerða,aðcɛrða
 # aðgerðalaus; aðgerða-laus,aðcɛrðalœiːs
 # aðgerðaleysi; aðgerða-leysi,aðcɛrðaleiːsɪ
-# aðgerðanna; aðgerð-anna,aðcɛrðana
 # aðgerðaleysi; aðgerða-leysi,aðcɛrðaleiːsɪ
+# aðgerðanna; aðgerð-anna,aðcɛrðana
 # aðgerðarleysi; aðgerðar-leysi,aðcɛrðarleiːsɪ
 # aðgerðin; aðgerðin,aðcɛrðɪn
 # aðgerðina; aðgerðina,aðcɛrðɪna
@@ -4204,6 +4204,11 @@
 # búum; búum,puːʏm
 # búð; búð,puːð
 # búða; búða,puːða
+# búðarborðið;búðar-borðið,puːðarpɔrðɪð
+# búðardal;búðar-dal,puːðartaːl
+# búðarglugga;búðar-glugga,puːðarklʏka
+# búðarklettur;búðar-klettur,puːðarkʰlɛhtʏr
+# búðarsveinninn;búðar-sveinninn,puːðarsveitnɪn
 # búðin; búðin,puːðɪn
 # búðir; búðir,puːðɪr
 # búðu; búðu,puːðʏ
@@ -5368,7 +5373,7 @@
 # felur; felur,fɛːlʏr
 # felustaður; felu-staður,fɛːlʏstaːðʏr
 # fen; fen,fɛːn
-# feneyjar; fen-eyjar,fɛːneiar
+# feneyjar; fen-eyjar,fɛːneijar
 # feng; feng,feiŋk
 # fengi; fengi,feiɲcɪ
 # fengu; fengu,feiŋkʏ
@@ -8620,16 +8625,16 @@
 # ingvi; ingvi,iŋkvɪ
 # ingólf; ing-ólf,iŋkoulv
 # ingólfi; ing-ólfi,iŋkoulvɪ
-# ingólfs; ing-ólfs,iŋkoulvs
+# ingólfs; ing-ólfs,iŋkouls
 # ingólfsbrunn; ingólfs-brunn,iŋkoulsprʏn
-# ingólfsdóttir; ingólfs-dóttir,iŋkoulvstouhtɪr
-# ingólfsdóttur; ingólfs-dóttur,iŋkoulvstouhtʏr
-# ingólfsson; ingólfs-son,iŋkoulvsɔːn
-# ingólfssonar; ingólfs-sonar,iŋkoulvsɔːnar
-# ingólfsstræti; ingólfs-stræti,iŋkoulvstraiːtɪ
-# ingólfssyni; ingólfs-syni,iŋkoulvsɪːnɪ
-# ingólfstorg; ingólfs-torg,iŋkoulvstʰɔrk
-# ingólfstorgi; ingólfs-torgi,iŋkoulvstʰɔrcɪ
+# ingólfsdóttir; ingólfs-dóttir,iŋkoulstouhtɪr
+# ingólfsdóttur; ingólfs-dóttur,iŋkoulstouhtʏr
+# ingólfsson; ingólfs-son,iŋkoulsɔːn
+# ingólfssonar; ingólfs-sonar,iŋkoulsɔːnar
+# ingólfsstræti; ingólfs-stræti,iŋkoulstraiːtɪ
+# ingólfssyni; ingólfs-syni,iŋkoulsɪːnɪ
+# ingólfstorg; ingólfs-torg,iŋkoulstʰɔrk
+# ingólfstorgi; ingólfs-torgi,iŋkoulstʰɔrcɪ
 # ingólfur; ing-ólfur,iŋkoulvʏr
 # ingþór; ing-þór,iŋkθour
 # inka; inka,iŋ̊ka
@@ -9361,7 +9366,7 @@
 # jöfnu; jöfnu,jœpnʏ
 # jöfnum; jöfnum,jœpnʏm
 # jöfnun; jöfnun,jœpnʏn
-# jöfnunarsjóði; jöfnunar-sjóði,jœpnʏnatsjouːðɪ
+# jöfnunarsjóði; jöfnunar-sjóði,jœpnʏnarsjouːðɪ
 # jöfnuð; jöfnuð,jœpnʏð
 # jöfnuði; jöfnuði,jœpnʏðɪ
 # jöfnuðu; jöfnuðu,jœpnʏðʏ
@@ -13751,7 +13756,13 @@
 # selst; selst,sɛlst
 # selt; selt,sɛl̥t
 # selta; selta,sɛl̥ta
-# seltjarnarnes; seltjarnar-nes,sɛltjatnanɛːs
+# seltjarnarnes; seltjarnar-nes,sɛltʰjartnanɛːs
+# seltjarnarnesbæjar;seltjarnarnes-bæjar,sɛltʰjartnanɛspaiːjar
+# seltjarnarnesi;seltjarnar-nesi,sɛltʰjartnanɛːsɪ
+# seltjarnarneskaupstaðar;seltjarnarnes-kaupstaðar,sɛltʰjartnarnɛskʰœifstaðar
+# seltjarnarneskirkja;seltjarnarnes-kirkja,sɛltʰjartnarnɛscʰɪr̥ca
+# seltjarnarneskirkju;seltjarnarnes-kirkju,sɛltʰjartnarnɛscʰɪr̥cʏ
+# seltjarnarness;seltjarnarness,sɛltʰjartnanɛs
 # seltu; seltu,sɛl̥tʏ
 # selur; selur,sɛːlʏr
 # sem; sem,sɛːm
@@ -14386,9 +14397,9 @@
 # slást; slást,stlaust
 # slátt; slátt,stlauht
 # sláturfolöldunum; slátur-folöldunum,stlauːtʏrfɔːlœltɔnʏm
-# sláturfélag; slátur-félag,slauːtʏrfjɛːlaɣ
+# sláturfélag; slátur-félag,stlauːtʏrfjɛːlaɣ
 # sláturfélags; slátur-félags,stlauːtʏrfjɛːlaxs
-# sláturfélagsins; slátur-félagsins,slauːtʏrfjɛːlaxsɪns
+# sláturfélagsins; slátur-félagsins,stlauːtʏrfjɛːlaxsɪns
 # sláturfénu; slátur-fénu,stlauːtʏrfjɛːnʏ
 # sláturhús; slátur-hús,stlauːtʏrhuːs
 # sláturhúsinu; slátur-húsinu,stlauːtʏrhuːsɪnʏ
@@ -18515,7 +18526,7 @@
 # útborg; útborg,uːtpɔrk
 # útborgun; útborgun,uːtpɔrkʏn
 # útboð; útboð,uːtpɔð
-# útbreiðsla; útbreiðsla,uːtpreitstla
+# útbreiðsla; útbreiðsla,uːtpreiðstla
 # útbyrðis; útbyrðis,uːtpɪrðɪs
 # útbúa; útbúa,uːtpua
 # útbúnaður; útbúnaður,uːtpunaðʏr
@@ -20557,7 +20568,7 @@ bárujárnið;báru-járnið,pauːrʏjautnɪð
 bárunni;bárunni,pauːrʏnɪ
 bárust;bárust,pauːrʏst
 bárðardal;bárðar-dal,paurðataːl
-bárðardóttir;bárðar-dóttir,paurðatouhtɪr
+bárðardóttir;bárðar-dóttir,paurðartouhtɪr
 bárðarson;bárðar-son,paurðarsɔːn
 bárður;bárður,paurðʏr
 básinn;básinn,pauːsɪn
@@ -20934,11 +20945,6 @@ bústnar;bústnar,pustnar
 bústörfin;bústörfin,puːstœrvɪn
 bústöðum;bústöðum,puːstœðʏm
 búðanna;búðanna,puːðana
-# búðarborðið;búðar-borðið,puːðarpɔrðɪð
-# búðardal;búðar-dal,puːðartaːl
-# búðarglugga;búðar-glugga,puːðarklʏka
-# búðarklettur;búðar-klettur,puːðarkʰlɛhtʏr
-# búðarsveinninn;búðar-sveinninn,puːðarsveitnɪn
 búðina;búðina,puːðɪna
 búðinni;búðinni,puːðɪnɪ
 búðirnar;búðir-nar,puːðɪtnar
@@ -22535,7 +22541,7 @@ einkabíls;einka-bíls,eiŋ̊kapils
 einkabílstjóra;einkabíl-stjóra,eiŋ̊kapilstjoura
 einkadóttur;einka-dóttur,eiŋ̊katouhtʏr
 einkaeign;einka-eign,eiŋ̊kaeikn̥
-einkaeignarrétti;einkaeignar-rétti,eiŋ̊kaeiknarjɛhktɪ
+einkaeignarrétti;einkaeignar-rétti,eiŋ̊kaeiknarjɛhtɪ
 einkaeigu;einka-eigu,eiŋ̊kaeiːɣʏ
 einkaeyju;einka-eyju,eiŋ̊kaeiːʏ
 einkaflugmanninn;einka-flugmanninn,eiŋ̊kaflʏɣmanɪn
@@ -22790,7 +22796,7 @@ eldavélina;elda-vélina,ɛltavjɛːlɪna
 eldaði;eldaði,ɛltaðɪ
 elddans;elddans,ɛltans
 elddansinn;elddansinn,ɛltansɪn
-eldeyjarboða;eldeyjar-boða,ɛlteiarpɔːða
+eldeyjarboða;eldeyjar-boða,ɛlteijarpɔːða
 eldfast;eld-fast,ɛltfast
 eldfim;eld-fim,ɛltfɪm
 eldfimt;eld-fimt,ɛltfɪm̥t
@@ -23411,7 +23417,7 @@ eyjafirði;eyja-firði,eiːjafɪrðɪ
 eyjafirðinum;eyja-firðinum,eijafɪrðɪnʏm
 eyjafjallahreppi;eyjafjalla-hreppi,eiːjafjatlar̥ɛhpɪ
 eyjafjarðar;eyja-fjarðar,eiːjafjarðar
-eyjafjarðardeildar;eyjafjarðar-deildar,eiafjarðarteiltar
+eyjafjarðardeildar;eyjafjarðar-deildar,eijafjarðarteiltar
 eyjafjarðarsvæðinu;eyja-fjarðar-svæðinu,eijafjarðarsvaiːðɪnʏ
 eyjafjöllum;eyja-fjöllum,eijafjœtlʏm
 eyjafjörð;eyja-fjörð,eiːjafjœrð
@@ -23667,7 +23673,7 @@ fannari;fannari,fanarɪ
 fannars;fannars,fanar̥s
 fannborg;fann-borg,fanpɔrk
 fanndals;fann-dals,fantals
-fanneyjar;fann-eyjar,faneiar
+fanneyjar;fann-eyjar,faneijar
 fanneyju;fann-eyju,faneijʏ
 fannst;fannst,fanst
 fannstu;fannstu,fanstʏ
@@ -24831,7 +24837,7 @@ flatargjalds;flatar-gjalds,flaːtarcalts
 flatarmáli;flatar-máli,flaːtarmauːlɪ
 flatey;flatey,flaːtei
 flateyjar;flat-eyjar,flaːteijar
-flateyjardal;flateyjar-dal,flaːteiartaːl
+flateyjardal;flateyjar-dal,flaːteijartaːl
 flateyri;flat-eyri,flaːteirɪ
 flatgryfjur;flat-gryfjur,flaːtkrɪfjʏr
 flatir;flatir,flaːtɪr
@@ -28797,7 +28803,7 @@ grímsdóttir;gríms-dóttir,krimstouhtɪr
 grímsdóttur;gríms-dóttur,krimstouhtʏr
 grímsey;grímsey,krimsei
 grímseyjar;gríms-eyjar,krimseijar
-grímseyjarhrepps;grímseyjar-hrepps,krimseiar̥ɛhps
+grímseyjarhrepps;grímseyjar-hrepps,krimseijar̥ɛhps
 grímsnes;gríms-nes,krimsnɛs
 grímsnesi;gríms-nesi,krimstnɛsɪ
 grímsson;gríms-son,krimsɔn
@@ -31885,7 +31891,7 @@ hraundranga;hraun-dranga,r̥œintrauŋka
 hraunfjörð;hraun-fjörð,r̥œinfjœrð
 hraungrýti;hraun-grýti,r̥œiŋkritɪ
 hraunhreppi;hraun-hreppi,r̥œinr̥ɛhpɪ
-hraunhvolf;hraun-hvolf,r̥œiŋ̊kʰvɔlv
+hraunhvolf;hraun-hvolf,r̥œiŋkʰvɔlv
 hraunhóli;hraun-hóli,r̥œinhoulɪ
 hrauni;hrauni,r̥œiːnɪ
 hrauninu;hrauninu,r̥œiːnɪnʏ
@@ -32313,7 +32319,7 @@ hrímfögur;hrím-fögur,r̥imfœɣʏr
 hrísalundi;hrísa-lundi,r̥iːsalʏntɪ
 hrísbrú;hrís-brú,r̥iːspru
 hrísey;hrís-ey,r̥iːsei
-hríseyjar;hrís-eyjar,r̥iːseiar
+hríseyjar;hrís-eyjar,r̥iːseijar
 hrísgrjónadeigi;hrísgrjóna-deigi,r̥iːskrjounateiːɪ
 hrísgrjónagraut;hrísgrjóna-graut,r̥iːskrjounakrœiːt
 hrísgrjónaköggli;hrísgrjóna-köggli,r̥iːskrjounakʰœklɪ
@@ -32344,7 +32350,7 @@ hrókur;hrókur,r̥ouːkʏr
 hrókurinn;hrókurinn,r̥ouːkʏrɪn
 hrólfi;hrólfi,r̥oulvɪ
 hrólfs;hrólfs,r̥oulvs
-hrólfsson;hrólfs-son,r̥oulvsɔn
+hrólfsson;hrólfs-son,r̥oulsɔn
 hrólfur;hrólfur,r̥oulvʏr
 hrópandi;hróp-andi,r̥ouːpantɪ
 hrópar;hrópar,r̥ouːpar
@@ -36128,17 +36134,17 @@ landaði;landaði,lantaðɪ
 landbúnað;land-búnað,lampunað
 landbúnaðar;land-búnaðar,lampunaðar
 landbúnaðarafurðir;land-búnaðar-afurðir,lampunaðaraːvʏrðɪr
-landbúnaðardeild;landbúnaðar-deild,lantpunaðarteilt
+landbúnaðardeild;landbúnaðar-deild,lampunaðarteilt
 landbúnaðarins;land-búnaðar-ins,lampunaðarɪns
-landbúnaðarkerfi;landbúnaðar-kerfi,lantpunaðarcʰɛrvɪ
-landbúnaðarnefndar;land-búnaðar-nefndar,lantpunaðanɛmtar
+landbúnaðarkerfi;landbúnaðar-kerfi,lampunaðarcʰɛrvɪ
+landbúnaðarnefndar;land-búnaðar-nefndar,lampunaðanɛmtar
 landbúnaðarráðuneytinu;landbúnaðar-ráðuneytinu,lampunaðarauːðʏneiːtɪnʏ
 landbúnaðarráðuneytisins;landbúnaðar-ráðuneytisins,lampunaðarauːðʏneiːtɪsɪns
 landbúnaðarráðuneytið;landbúnaðar-ráðuneytið,lampunaðarauːðʏneiːtɪð
-landbúnaðarstofnunar;land-búnaðar-stofnunar,lantpunaðarstɔpnʏnar
-landbúnaðarstofnunin;land-búnaðar-stofnunin,lantpunaðarstɔpnʏnɪn
-landbúnaðartækni;landbúnaðar-tækni,lantpunaðartʰaihknɪ
-landbúnaðarvara;landbúnaðar-vara,lantpunaðarvaːra
+landbúnaðarstofnunar;land-búnaðar-stofnunar,lampunaðarstɔpnʏnar
+landbúnaðarstofnunin;land-búnaðar-stofnunin,lampunaðarstɔpnʏnɪn
+landbúnaðartækni;landbúnaðar-tækni,lampunaðartʰaihknɪ
+landbúnaðarvara;landbúnaðar-vara,lampunaðarvaːra
 landbúnaðarvörum;landbúnaðar-vörum,lampunaðarvœrʏm
 landbúnaðarvörur;landbúnaðar-vörur,lampunaðarvœrʏr
 landbúnaði;land-búnaði,lampunaðɪ
@@ -39489,7 +39495,7 @@ minningargreina;minningar-greina,mɪniŋkarkreiːna
 minningargreinar;minningar-greinar,mɪniŋkarkreiːnar
 minningargreinum;minningar-greinum,mɪniŋkarkreiːnʏm
 minningarkort;minningar-kort,mɪniŋkarkʰɔr̥t
-minningarnar;minning-arnar,mɪniŋkartnar
+minningarnar;minning-arnar,mɪniŋkatnar
 minningarplagg;minningarplagg,mɪniŋkarpʰlak
 minningarrölti;minningarrölti,mɪniŋkarœl̥tɪ
 minningin;minningin,mɪniɲcɪn
@@ -42910,7 +42916,7 @@ reikningseigenda;reiknings-eigenda,reihkniŋseiːɣɛnta
 reikningsskila;reiknings-skila,reihkniŋscɪːla
 reikningsskilagúrúar;reiknings-skilagúrúar,reihkniŋscɪlakuːruar
 reikningsskilavenju;reiknings-skila-venju,reihkniŋscɪːlavɛnjʏ
-reikningsskilum;reiknings-skilum,reihkniŋkscɪːlʏm
+reikningsskilum;reiknings-skilum,reihkniŋscɪːlʏm
 reikningum;reikn-ingum,reihkniŋkʏm
 reikningur;reikningur,reihkniŋkʏr
 reikningurinn;reikningurinn,reihkniŋkʏrɪn
@@ -43482,7 +43488,7 @@ runnið;runnið,rʏnɪð
 runnum;runnum,rʏnʏm
 runnunum;runnunum,rʏnɔnʏm
 runólfs;run-ólfs,rʏːnouls
-runólfsdóttir;runólfs-dóttir,rʏːnoulstouhtʏr
+runólfsdóttir;runólfs-dóttir,rʏːnoulstouhtɪr
 runólfsdóttur;runólfs-dóttur,rʏːnoulstouhtʏr
 runólfsson;runólfs-son,rʏːnoulsɔːn
 runólfssonar;runólfs-sonar,rʏːnoulsɔːnar
@@ -43938,7 +43944,7 @@ röggsemi;rögg-semi,rœksɛmɪ
 rögnvald;rögn-vald,rœkvalt
 rögnvaldar;rögn-valdar,rœkvaltar
 rögnvaldi;rögn-valdi,rœkvaltɪ
-rögnvaldsdóttir;rögnvalds-dóttir,rœkvaltstouhtʏr
+rögnvaldsdóttir;rögnvalds-dóttir,rœkvaltstouhtɪr
 rögnvaldsson;rögnvalds-son,rœkvaltsɔːn
 rökfræðikúrs;rökfræðikúrs,rœːkfraiðɪkur̥s
 rökfræðikúrsinn;rökfræði-kúrsinn,rœːkfraiðɪkʰur̥sɪn
@@ -44940,12 +44946,6 @@ selmúlamegin;selmúla-megin,sɛlmulameijɪn
 selskinni;sel-skinni,sɛlscɪnɪ
 selslifur;selslifur,sɛlslɪːvʏr
 selsíus;selsíus,sɛlsijʏs
-seltjarnarnesbæjar;seltjarnarnes-bæjar,sɛltjatnanɛspaiːjar
-seltjarnarnesi;seltjarnar-nesi,sɛltjatnanɛːsɪ
-seltjarnarneskaupstaðar;seltjarnarnes-kaupstaðar,sɛltʰjartnarnɛskʰœifstaðar
-seltjarnarneskirkja;seltjarn-arnes-kirkja,sɛltjartnarnɛscʰɪr̥ca
-seltjarnarneskirkju;seltjarn-arnes-kirkju,sɛltjartnarnɛscʰɪr̥cʏ
-seltjarnarness;seltjarnar-ness,sɛltjatnanɛs
 selurinn;selurinn,sɛːlʏrɪn
 selveiðimenn;selveiði-menn,sɛlveiðɪmɛn
 selvog;selvog,sɛlvɔɣ
@@ -48415,7 +48415,7 @@ spurningalistann;spurninga-listann,spʏrtniŋkalɪstan
 spurninganna;spurning-anna,spʏrtniŋkana
 spurningar;spurn-ingar,spʏrtniŋkar
 spurningarinnar;spurningar-innar,spʏrtniŋkarɪnar
-spurningarnar;spurning-arnar,spʏrtniŋkartnar
+spurningarnar;spurning-arnar,spʏrtniŋkatnar
 spurningavagna;spurninga-vagna,spʏrtniŋkavakna
 spurningin;spurningin,spʏrtniɲcɪn
 spurningu;spurn-ingu,spʏrtniŋkʏ
@@ -49260,7 +49260,7 @@ stjörnunni;stjörn-unni,stjœrtnʏnɪ
 stjörnunum;stjörnunum,stjœrtnɔnʏm
 stjörnunótt;stjörnunótt,stjœrtnʏnouht
 stjörnur;stjörnur,stjœrtnʏr
-stjörnurnar;stjörn-urnar,stjœrtnʏrtnar
+stjörnurnar;stjörn-urnar,stjœrtnʏtnar
 stjörnuskoðunarforrit;stjörnu-skoðunar-forrit,stjœrtnʏskɔðʏnarfɔrɪt
 stjörnuspegill;stjörnu-spegill,stjœrtnʏspeijɪtl̥
 stjörnuspána;stjörnu-spána,stjœrtnʏspauna
@@ -50656,7 +50656,7 @@ sveitarstjóra;sveitar-stjóra,sveiːtarstjouːra
 sveitarstjórna;sveitar-stjórna,sveiːtarstjourtna
 sveitarstjórnakosninga;sveitarstjórna-kosninga,sveiːtar̥stjourtnakʰɔstniŋka
 sveitarstjórnar;sveitar-stjórnar,sveiːtarstjourtnar
-sveitarstjórnarkosninga;sveitar-stjórnar-kosninga,sveiːtar̥stjourtnar̥kʰɔstniŋka
+sveitarstjórnarkosninga;sveitar-stjórnar-kosninga,sveiːtar̥stjourtnarkʰɔstniŋka
 sveitarstjórnarkosningar;sveitar-stjórnar-kosningar,sveiːtarstjourtnarkʰɔstniŋkar
 sveitarstjórnarkosningum;sveitar-stjórnar-kosningum,sveiːtarstjourtnarkʰɔstniŋkʏm
 sveitarstjórnarmanna;sveitar-stjórnar-manna,sveiːtarstjourtnarmana
@@ -51655,7 +51655,7 @@ sýningargesta;sýningar-gesta,siːniŋkarɲɛsta
 sýningargestum;sýningar-gestum,siːniŋkarcɛstʏm
 sýningarhúsnæði;sýningarhús-næði,siːniŋkarhuːstnaiðɪ
 sýningarinnar;sýningar-innar,siːniŋkarɪnar
-sýningarnar;sýning-arnar,siːniŋkartnar
+sýningarnar;sýning-arnar,siːniŋkatnar
 sýningarsal;sýningar-sal,siːniŋkarsaːl
 sýningarsalir;sýningar-salir,siːniŋkarsaːlɪr
 sýningarsalur;sýningar-salur,siːniŋkarsaːlʏr
@@ -54525,11 +54525,11 @@ vatnsleiðslur;vatns-leiðslur,vasleiðstlʏr
 vatnsleysni;vatns-leysni,vasleistnɪ
 vatnsleysnin;vatns-leysnin,vasleistnɪn
 vatnsleysustrandarhreppi;vatnsleysu-strandar-hreppi,vasleisʏstrantar̥ɛhpɪ
-vatnsleysustrandarhrepps;vatnsleysu-strandar-hrepps,vastleisʏstrantar̥ɛhps
+vatnsleysustrandarhrepps;vatnsleysu-strandar-hrepps,vasleisʏstrantar̥ɛhps
 vatnsleysustrandarhreppur;vatnsleysu-strandar-hreppur,vasleisʏstrantar̥ɛhpʏr
-vatnsleysuströnd;vatnsleysu-strönd,vastleisʏstrœnt
+vatnsleysuströnd;vatnsleysu-strönd,vasleisʏstrœnt
 vatnslitamyndir;vatnslita-myndir,vaslɪtamɪntɪr
-vatnslitamyndum;vatnslita-myndum,vastlɪtamɪntʏm
+vatnslitamyndum;vatnslita-myndum,vaslɪtamɪntʏm
 vatnsmagnið;vatns-magnið,vasmaknɪð
 vatnsmelóna;vatns-melóna,vasmɛlouna
 vatnsmelónu;vatns-melónu,vasmɛlounʏ
@@ -55958,7 +55958,7 @@ viðbúin;við-búin,vɪðpuɪn
 viðbúið;við-búið,vɪðpuɪð
 viðbúnað;við-búnað,vɪðpunað
 viðeyjar;við-eyjar,vɪːðeijar
-viðeyjardæmi;viðeyjar-dæmi,vɪːðeiartaiːmɪ
+viðeyjardæmi;viðeyjar-dæmi,vɪːðeijartaiːmɪ
 viðeyjarferjan;viðeyjar-ferjan,vɪːðeijarfɛrjan
 viðeyjarferju;viðeyjar-ferju,vɪːðeijarfɛrjʏ
 viðeyjarstofu;viðeyjar-stofu,vɪːðeijarstɔːvʏ
@@ -57474,7 +57474,7 @@ yukatanskagans;yukatanskagans,jʏːkatanskaːɣans
 átakið;átakið,auːtacɪð
 átaksins;átaksins,auːtaksɪns
 átaksverkefna;átaks-verkefna,auːtʰaksvɛr̥kɛpna
-átaksverkefni;átaks-verkefni,auːtaksvɛr̥kɛpnɪ
+átaksverkefni;átaks-verkefni,auːtʰaksvɛr̥kɛpnɪ
 átekta;átekta,auːtɛxta
 átfrumum;átfrumum,auːtfrʏmʏm
 átjánda;átjánda,auːtjaunta
@@ -58441,7 +58441,7 @@ yukatanskagans;yukatanskagans,jʏːkatanskaːɣans
 óravíddum;óra-víddum,ouːravitʏm
 óreganó;óreganó,ouːrɛkaːnou
 óreglu;óreglu,ouːrɛklʏ
-óreglulega;óreglu-lega,ouːrɛklʏna
+óreglulega;óreglu-lega,ouːrɛklʏlɛɣa
 óreglusömu;óreglu-sömu,ouːrɛklʏsœːmʏ
 óreiðu;óreiðu,ouːreiðʏ
 óreiðuna;óreiðuna,ouːreiðʏna
@@ -58551,7 +58551,7 @@ yukatanskagans;yukatanskagans,jʏːkatanskaːɣans
 óspilltra;óspilltra,ouːspɪl̥tra
 óspurðum;óspurðum,ouːspʏrðʏm
 óstjórnlega;óstjórn-lega,ouːstjourtn̥lɛɣa
-óstjórnlegri;óstjórn-legri,ouːstourtn̥lɛɣrɪ
+óstjórnlegri;óstjórn-legri,ouːstjourtn̥lɛɣrɪ
 óstudd;óstudd,ouːstʏt
 óstuddur;óstuddur,ouːstʏtʏr
 óstyrk;óstyrk,ouːstɪr̥k
@@ -59130,7 +59130,7 @@ yukatanskagans;yukatanskagans,jʏːkatanskaːɣans
 úrvalsdeildar;úrvals-deildar,urvalsteiltar
 úrvalsdeildarinnar;úrvals-deildar-innar,urvalsteiltarɪnar
 úrvalsdeildarliðinu;úrvalsdeild-arliðinu,urvalsteiltarlɪðɪnʏ
-úrvalsdeildarliðið;úrvals-deildarliðið,urvalsteitlarlɪð
+úrvalsdeildarliðið;úrvals-deildarliðið,urvalsteiltarlɪð
 úrvalsdeildarliðsins;úrvals-deildarliðsins,urvalsteiltarlɪðsɪns
 úrvalsdeildin;úrvals-deildin,urvalsteiltɪn
 úrvalsdeildina;úrvalsdeildina,urvalsteiltɪna
@@ -59164,7 +59164,7 @@ yukatanskagans;yukatanskagans,jʏːkatanskaːɣans
 útbreidda;útbreidda,uːtpreita
 útbreiddan;útbreiddan,uːtpreitan
 útbreiddu;útbreiddu,uːtpreitʏ
-útbreiddur;útbreiddur,utpreihtʏr
+útbreiddur;útbreiddur,utpreitʏr
 útbreitt;útbreitt,uːtpreiht
 útbreiðslu;útbreiðslu,uːtpreitstlʏ
 útbreiðsluna;útbreiðsluna,uːtpreiðstlʏna
@@ -60568,9 +60568,9 @@ yukatanskagans;yukatanskagans,jʏːkatanskaːɣans
 þátttakendur;þátt-tak-endur,θauhtʰakɛntʏr
 þátttakendurnir;þátt-tak-endur-nir,θauhtʰakɛntʏtnɪr
 þátttöku;þátt-töku,θauhtʰœkʏ
-þátttökugjald;þátttöku-gjald,θauhtœkʏcalt
+þátttökugjald;þátttöku-gjald,θauhtʰœkʏcalt
 þátttökuna;þátt-tökuna,θauhtʰœkʏna
-þátttökurétt;þátttöku-rétt,θauhtœkʏrjɛht
+þátttökurétt;þátttöku-rétt,θauhtʰœkʏrjɛht
 þáttum;þáttum,θauhtʏm
 þáttun;þáttun,θauhtʏn
 þáttunum;þáttunum,θauhtɔnʏm
