@@ -143,7 +143,7 @@
 # afkomutölur; afkomu-tölur,avkʰɔmʏtœːlʏr
 # afkomutölur; afkomu-tölur,avkʰɔmʏtʰœːlʏr
 # afkomuviðvörun; afkomu-viðvörun,avkʰɔmʏvɪðvœrʏn
-# afkróuð; afkróuð,avkrouʏð
+# afkróuð; afkróuð,avkʰrouʏð
 # afkvæmarannsókn; afkvæma-rannsókn,avkʰvaimaransouhkn̥
 # afkvæmi; afkvæmi,avkʰvaimɪ
 # afkvæmin; afkvæmin,avkʰvaimɪn
@@ -680,12 +680,12 @@
 # alkahóli; alka-hóli,alkʰahouːlɪ
 # alkalí; alkalí,alkʰali
 # alkalírafhlöður; alkalí-rafhlöður,alkʰalirafl̥œðʏr
-# alklædd; al-klædd,alklait
+# alklædd; al-klædd,alkʰlait
 # alkominn; alkominn,alkʰɔmɪn
-# alkunna; alkunna,alkʏna
+# alkunna; alkunna,alkʰʏna
 # alkunnri; al-kunnri,alkʰʏnrɪ
-# alkunnu; al-kunnu,alkʏnʏ
-# alkóa; alkóa,alkoua
+# alkunnu; al-kunnu,alkʰʏnʏ
+# alkóa; alkóa,alkʰoua
 # alkóhólista; alkóhól-ista,al̥kouhoulɪsta
 # all; all,atl̥
 # alla; alla,atla
@@ -11386,7 +11386,7 @@
 # mbl; mbl,ɛm pjɛː ɛtl̥
 # med; med,mɛːt
 # medía; medía,mɛːtija
-# mega; mega,mɛːka
+# mega; mega,meiːɣa
 # megas; megas,mɛːkas
 # megi; megi,meijɪ
 # megin; megin,meiːjɪn
@@ -12980,7 +12980,7 @@
 # reiðingsgras; reiðings-gras,reiːðiŋkskraːs
 # reiðtygi; reið-tygi,reiðtʰijɪ
 # reiðu; reiðu,reiːðʏ
-# reiðubúinn; reiðu-búinn,reiːðʏpuːɪn
+# reiðubúinn; reiðu-búinn,reiːðʏpuɪn
 # reiðufé; reiðufé,reiːðʏfjɛː
 # rek; rek,rɛːk
 # reka; reka,rɛːka
@@ -16306,8 +16306,8 @@
 # undanþága; undan-þága,ʏntanθauːa
 # undi; undi,ʏntɪ
 # undir; undir,ʏntɪr
-# undirbúa; undir-búa,ʏntɪrpuːa
-# undirbúinn; undir-búinn,ʏntɪrpuːɪn
+# undirbúa; undir-búa,ʏntɪrpua
+# undirbúinn; undir-búinn,ʏntɪrpuɪn
 # undirbúningur; undir-búningur,ʏntɪrpuːniŋkʏr
 # undireins; undir-eins,ʏntɪreins
 # undirferli; undir-ferli,ʏntɪrfɛrtlɪ
@@ -23533,57 +23533,57 @@ eðvarðsson;eðvarðs-son,ɛðvarðsɔːn
 eþíópíu;eþíópíu,ɛːθijoupijʏ
 fagaðila;fag-aðila,faːɣaðɪla
 fagaðilum;fag-aðilum,faːɣaðɪlʏm
-fagfjárfesta;fag-fjárfesta,faxfjaurfɛsta
-fagfjárfestasjóðurinn;fagfjárfesta-sjóðurinn,faɣfjaurfɛstasjouːðʏrɪn
-fagfjárfestum;fag-fjárfestum,faɣfjaurfɛstʏm
-fagfólk;fagfólk,faxfoul̥k
-fagfólki;fag-fólki,faxfoul̥cɪ
-fagfólks;fag-fólks,faxfoul̥ks
-faggildingu;fag-gildingu,faɣcɪltiŋkʏ
-faggreinar;fag-greinar,faɣkreinar
-faghóps;faghóps,faːɣhoups
-faghópum;fag-hópum,faːɣhoupʏm
-faghópur;fag-hópur,faːɣhoupʏr
-faginu;faginu,faijɪnʏ
-fagleg;fagleg,faɣlɛɣ
-faglega;faglega,faɣlɛɣa
-faglegan;fag-legan,faɣlɛɣan
-faglegri;faglegri,faɣlɛɣrɪ
-faglegt;faglegt,faɣlɛxt
-faglegu;faglegu,faɣlɛɣʏ
-faglegum;fag-legum,faɣlɛɣʏm
-fagmanna;fag-manna,faɣmana
-fagmannlega;fagmann-lega,faɣmanlɛɣa
-fagmannlegum;fagmann-legum,faɣmanlɛɣʏm
-fagmenn;fag-menn,faɣmɛn
-fagmennsku;fag-mennsku,faɣmɛnskʏ
-fagnandi;fagn-andi,faknantɪ
-fagnar;fagnar,faknar
-fagnað;fagnað,faknað
-fagnaðar;fagnaðar,faknaðar
-fagnaðarbjarma;fagnaðar-bjarma,faknaðarpjarma
-fagnaðarefni;fagnaðar-efni,faknaðarɛpnɪ
-fagnaðarerindið;fagnaðar-erindið,faknaðarɛːrɪntɪð
-fagnaðarfundir;fagnaðar-fundir,faknaðarfʏntɪr
-fagnaðarlátum;fagnaðar-látum,faknaðarlauːtʏm
-fagnaðarlæti;fagnaðar-læti,faknaðarlaiːtɪ
-fagnaðarlætin;fagnaðar-lætin,faknaðarlaiːtɪn
-fagnaðaróp;fagnaðaróp,faknaðarouːp
-fagnaði;fagnaði,faknaðɪ
-fagnámskeið;fagnámskeið,faɣnaumsceið
-fagott;fagott,faːkɔht
-fagradal;fagra-dal,faɣrataːl
-fagrahvammi;fagra-hvammi,faɣrakʰvamɪ
-fagran;fagran,faɣran
-fagrar;fagrar,faɣrar
-fagrir;fagrir,faɣrɪr
-fagráð;fagráð,faɣrauːð
-fagstjóra;fag-stjóra,faxstjoura
-fagstjóri;fag-stjóri,faxstjourɪ
-fagstétt;fag-stétt,faxstjɛht
-fagtengdar;fag-tengdar,faɣtʰeiŋtar
-fagtengdi;fag-tengdi,faɣtʰeiŋtɪ
-fagtúni;fagtúni,faɣtunɪ
+# fagfjárfesta;fag-fjárfesta,faɣfjaurfɛsta
+# fagfjárfestasjóðurinn;fagfjárfesta-sjóðurinn,faɣfjaurfɛstasjouːðʏrɪn
+# fagfjárfestum;fag-fjárfestum,faɣfjaurfɛstʏm
+# fagfólk;fag-fólk,faxfoul̥k
+# fagfólki;fag-fólki,faxfoul̥cɪ
+# fagfólks;fag-fólks,faxfoul̥ks
+# faggildingu;fag-gildingu,faɣcɪltiŋkʏ
+# faggreinar;fag-greinar,faɣkreinar
+# faghóps;fag-hóps,faːɣhoups
+# faghópum;fag-hópum,faːɣhoupʏm
+# # faghópur;fag-hópur,faːɣhoupʏr
+# faginu;faginu,faijɪnʏ
+# fagleg;fagleg,faɣlɛɣ
+# faglega;faglega,faɣlɛɣa
+# faglegan;fag-legan,faɣlɛɣan
+# faglegri;faglegri,faɣlɛɣrɪ
+# faglegt;faglegt,faɣlɛxt
+# faglegu;faglegu,faɣlɛɣʏ
+# faglegum;fag-legum,faɣlɛɣʏm
+# fagmanna;fag-manna,faɣmana
+# fagmannlega;fagmann-lega,faɣmanlɛɣa
+# fagmannlegum;fagmann-legum,faɣmanlɛɣʏm
+# fagmenn;fag-menn,faɣmɛn
+# fagmennsku;fag-mennsku,faɣmɛnskʏ
+# fagnandi;fagn-andi,faknantɪ
+# fagnar;fagnar,faknar
+# fagnað;fagnað,faknað
+# fagnaðar;fagnaðar,faknaðar
+# fagnaðarbjarma;fagnaðar-bjarma,faknaðarpjarma
+# fagnaðarefni;fagnaðar-efni,faknaðarɛpnɪ
+# fagnaðarerindið;fagnaðar-erindið,faknaðarɛːrɪntɪð
+# fagnaðarfundir;fagnaðar-fundir,faknaðarfʏntɪr
+# fagnaðarlátum;fagnaðar-látum,faknaðarlauːtʏm
+# fagnaðarlæti;fagnaðar-læti,faknaðarlaiːtɪ
+# fagnaðarlætin;fagnaðar-lætin,faknaðarlaiːtɪn
+# fagnaðaróp;fagnaðar-óp,faknaðarouːp
+# fagnaði;fagnaði,faknaðɪ
+# fagnámskeið;fag-námskeið,faɣnaumsceið
+# fagott;fagott,faːkɔht
+# fagradal;fagra-dal,faɣrataːl
+# fagrahvammi;fagra-hvammi,faɣrakʰvamɪ
+# fagran;fagran,faɣran
+# fagrar;fagrar,faɣrar
+# fagrir;fagrir,faɣrɪr
+# fagráð;fag-ráð,faɣrauːð
+# fagstjóra;fag-stjóra,faxstjoura
+# fagstjóri;fag-stjóri,faxstjourɪ
+# fagstétt;fag-stétt,faxstjɛht
+# fagtengdar;fag-tengdar,faɣtʰeiŋtar
+# fagtengdi;fag-tengdi,faɣtʰeiŋtɪ
+# fagtúni;fag-túni,faɣtunɪ
 fagurfræðinginn;fagur-fræðinginn,faːɣʏrfraiðiɲcɪn
 fagurlega;fagur-lega,faːɣʏrlɛɣa
 fagurt;fagurt,faːɣʏr̥t
@@ -33558,7 +33558,7 @@ kankvíslega;kankvís-lega,kʰaŋ̊kvistlɛɣa
 kannabis;kanna-bis,kʰanapɪs
 kannabisefni;kannabis-efni,kʰanapɪsɛpnɪ
 kannabisefnum;kannabis-efnum,kʰanapɪsɛpnʏm
-kannabisplantna;kannabis-plantna,kʰanapɪsplan̥tna
+kannabisplantna;kannabis-plantna,kʰanapɪspʰlan̥tna
 kannana;kannana,kʰanana
 kannanir;kann-anir,kʰananɪr
 kannanna;kannanna,kʰanana
@@ -33602,8 +33602,8 @@ kapelluhraun;kapellu-hraun,kʰaːpɛtlʏr̥œin
 kapelluna;kapelluna,kʰaːpɛtlʏna
 kapellunnar;kapellunnar,kʰaːpɛtlʏnar
 kapellunni;kapell-unni,kʰaːpɛtlʏnɪ
-kaplakrika;kapla-krika,kʰahplakrɪːka
-kaplakriki;kapla-kriki,kʰahplakrɪːcɪ
+kaplakrika;kapla-krika,kʰahplakʰrɪːka
+kaplakriki;kapla-kriki,kʰahplakʰrɪːcɪ
 kaplaskjólsvegi;kaplaskjóls-vegi,kʰahplascoulsveiːjɪ
 kappakstri;kapp-akstri,kʰahpakstrɪ
 kappakstrinum;kapp-akstrinum,kʰahpakstrɪnʏm
@@ -33678,7 +33678,7 @@ karlsins;karlsins,kʰalsɪns
 karlsson;karls-son,kʰalsɔn
 karlssonar;karls-sonar,kʰalsɔnar
 karlssyni;karls-syni,kʰalsɪnɪ
-karmelklaustur;karmel-klaustur,kʰarmɛlklœistʏr
+karmelklaustur;karmel-klaustur,kʰarmɛlkʰlœistʏr
 karpatafjöllum;karpata-fjöllum,kʰar̥patafjœtlʏm
 karpov;karpov,kʰar̥pɔv
 karríi;karríi,kʰariɪ
@@ -33793,8 +33793,8 @@ kaupstaðinn;kaup-staðinn,kʰœipstaðɪn
 kaupstaðnum;kaup-staðnum,kʰœipstaðnʏm
 kaupsýslumaður;kaupsýslu-maður,kʰœiːpsistlʏmaːðʏr
 kaupsýslumenn;kaupsýslu-menn,kʰœiːpsistlʏmɛn
-kauptilboð;kaup-tilboð,kʰœiːptɪlpɔð
-kauptilboði;kaup-tilboði,kʰœiːptɪlpɔðɪ
+kauptilboð;kaup-tilboð,kʰœiːptʰɪlpɔð
+kauptilboði;kaup-tilboði,kʰœiːptʰɪlpɔðɪ
 kaupum;kaupum,kʰœiːpʏm
 kaupunum;kaupunum,kʰœiːpɔnʏm
 kaupvangsstræti;kaupvangs-stræti,kʰœiːpvauŋkstraiːtɪ
@@ -33894,7 +33894,7 @@ kenningu;kenn-ingu,cʰɛniŋkʏ
 kenningum;kenn-ingum,cʰɛniŋkʏm
 kenninguna;kenninguna,cʰɛniŋkʏna
 kennir;kennir,cʰɛnɪr
-kennitölu;kenni-tölu,cʰɛnɪtœːlʏ
+kennitölu;kenni-tölu,cʰɛnɪtʰœːlʏ
 kennitölur;kenni-tölur,cʰɛnɪtʰœːlʏr
 kennsl;kennsl,cʰɛnstl̥
 kennsla;kennsla,cʰɛnstla
@@ -33974,7 +33974,7 @@ kepptust;kepptust,cʰɛftʏst
 kerala;kerala,cʰɛːrala
 keraldið;ker-aldið,cʰɛːraltɪð
 keramik;keramik,cʰɛːramɪk
-keramikklúbb;keramik-klúbb,cʰɛːramɪklup
+keramikklúbb;keramik-klúbb,cʰɛːramɪkʰlup
 kerfin;kerfin,cʰɛrvɪn
 kerfinu;kerfinu,cʰɛrvɪnʏ
 kerfis;kerfis,cʰɛrvɪs
@@ -34029,8 +34029,8 @@ kettlingar;kett-lingar,cʰɛhtliŋkar
 kettlinginn;kett-linginn,cʰɛhtliɲcɪn
 kettlingnum;kett-lingnum,cʰɛhtliŋknʏm
 kettlingur;kett-lingur,cʰɛhtliŋkʏr
-kexkökur;kex-kökur,cʰɛkskœkʏr
-kexpakkinn;kex-pakkinn,cʰɛkspahcɪn
+kexkökur;kex-kökur,cʰɛkskʰœkʏr
+kexpakkinn;kex-pakkinn,cʰɛkspʰahcɪn
 keypta;keypta,cʰeifta
 keyptar;keyptar,cʰeiftar
 keypti;keypti,cʰeiftɪ
@@ -34094,8 +34094,8 @@ kirkjan;kirkjan,cʰɪr̥can
 kirkju;kirkju,cʰɪr̥cʏ
 kirkjubraut;kirkju-braut,cʰɪr̥cʏprœiːt
 kirkjubæ;kirkju-bæ,cʰɪr̥cʏpaiː
-kirkjubæjarklaustri;kirkjubæjar-klaustri,cʰɪr̥cʏpaijarklœistrɪ
-kirkjubæjarklaustur;kirkjubæjar-klaustur,cʰɪr̥cʏpaijarklœistʏr
+kirkjubæjarklaustri;kirkjubæjar-klaustri,cʰɪr̥cʏpaijarkʰlœistrɪ
+kirkjubæjarklaustur;kirkjubæjar-klaustur,cʰɪr̥cʏpaijarkʰlœistʏr
 kirkjubæjarklausturs;kirkjubæjar-klausturs,cʰɪr̥cʏpaiarkʰlœistʏr̥s
 kirkjubókum;kirkju-bókum,cʰɪr̥cʏpouːkʏm
 kirkjubóli;kirkju-bóli,cʰɪr̥cʏpouːlɪ
@@ -34136,7 +34136,7 @@ kirkjuna;kirkjuna,cʰɪr̥cʏna
 kirkjunnar;kirkjunnar,cʰɪr̥cʏnar
 kirkjunni;kirkj-unni,cʰɪr̥cʏnɪ
 kirkjunum;kirkjunum,cʰɪr̥cɔnʏm
-kirkjuprakkarar;kirkju-prakkarar,cʰɪr̥cʏprahkarar
+kirkjuprakkarar;kirkju-prakkarar,cʰɪr̥cʏpʰrahkarar
 kirkjur;kirkjur,cʰɪr̥cʏr
 kirkjuritsins;kirkju-ritsins,cʰɪr̥cʏrɪːtsɪns
 kirkjurnar;kirkj-urnar,cʰɪr̥cʏtnar
@@ -34144,12 +34144,12 @@ kirkjusandi;kirkju-sandi,cʰɪr̥cʏsantɪ
 kirkjuskóli;kirkju-skóli,cʰɪr̥cʏskouːlɪ
 kirkjuskólinn;kirkju-skólinn,cʰɪr̥cʏskouːlɪn
 kirkjustarf;kirkju-starf,cʰɪr̥cʏstarv
-kirkjuteigi;kirkju-teigi,cʰɪr̥cʏteijɪ
+kirkjuteigi;kirkju-teigi,cʰɪr̥cʏtʰeijɪ
 kirkjutengdum;kirkju-tengdum,cʰɪr̥cʏtʰeiŋtʏm
-kirkjutorg;kirkju-torg,cʰɪr̥cʏtɔːrk
-kirkjutröppunum;kirkju-tröppunum,cʰɪr̥cʏtrœhpɔnʏm
-kirkjuturninn;kirkju-turninn,cʰɪr̥cʏtʏrtnɪn
-kirkjuturninum;kirkju-turninum,cʰɪr̥cʏtʏrtnɪnʏm
+kirkjutorg;kirkju-torg,cʰɪr̥cʏtʰɔːrk
+kirkjutröppunum;kirkju-tröppunum,cʰɪr̥cʏtʰrœhpɔnʏm
+kirkjuturninn;kirkju-turninn,cʰɪr̥cʏtʰʏrtnɪn
+kirkjuturninum;kirkju-turninum,cʰɪr̥cʏtʰʏrtnɪnʏm
 kirkjutónlistin;kirkju-tónlistin,cʰɪr̥cʏtʰounlɪstɪn
 kirkjutúns;kirkju-túns,cʰɪr̥cʏtʰuns
 kirkjuvarðar;kirkju-varðar,cʰɪr̥cʏvarðar
@@ -34201,7 +34201,7 @@ kjallaraholu;kjallara-holu,cʰatlarahɔːlʏ
 kjallarann;kjallar-ann,cʰatlaran
 kjallarans;kjallar-ans,cʰatlarans
 kjallaranum;kjallar-anum,cʰatlaranʏm
-kjallaratröppurnar;kjallara-tröpp-urnar,cʰatlaratrœhpʏtnar
+kjallaratröppurnar;kjallara-tröpp-urnar,cʰatlaratʰrœhpʏtnar
 kjallaraíbúð;kjallara-íbúð,cʰatlaraiːpuð
 kjallaraíbúðinni;kjallara-íbúðinni,cʰatlaraiːpuðɪnɪ
 kjallari;kjallari,cʰatlarɪ
@@ -34710,7 +34710,7 @@ kolbrúnar;kol-brúnar,kʰɔlpruːnar
 kolbrúnu;kol-brúnu,kʰɔlpruːnʏ
 kolefnis;kol-efnis,kʰɔːlɛpnɪs
 kolefnisatómum;kolefnis-atómum,kʰɔːlɛpnɪsaːtoumʏm
-kolefnispappír;kolefnis-pappír,kʰɔːlɛpnɪspahpir
+kolefnispappír;kolefnis-pappír,kʰɔːlɛpnɪspʰahpir
 kolgljáandi;kolgljáandi,kʰɔːlkljauantɪ
 kollafirði;kolla-firði,kʰɔtlafɪrðɪ
 kollega;kollega,kʰɔlɛka
@@ -34795,7 +34795,7 @@ kontrabassa;kontra-bassa,kʰɔn̥trapasa
 kontrapunkti;kontra-punkti,kʰɔn̥trapʰuŋ̊tɪ
 kontínental;kontínental,kʰɔn̥tinɛn̥tal
 kontór;kontór,kʰɔn̥tour
-kontórinn;kontórinn,kʰɔn̥tourɪn
+kontórinn;kon-tórinn,kʰɔn̥tourɪn
 kontórnum;kon-tórnum,kʰɔn̥tourtnʏm
 konuna;konuna,kʰɔːnʏna
 konung;konung,kʰɔːnuŋk
@@ -35070,7 +35070,7 @@ kristalflöskur;kristal-flöskur,kʰrɪstalflœskʏr
 kristall;krist-all,kʰrɪstatl̥
 kristallast;kristall-ast,kʰrɪstatlast
 kristalshöndlarinn;kristals-höndlarinn,kʰrɪstalshœntlarɪn
-kristaltært;kristal-tært,kʰrɪstaltair̥t
+kristaltært;kristal-tært,kʰrɪstaltʰair̥t
 kristfinnsson;kristfinns-son,kʰrɪstfɪnsɔːn
 kristi;kristi,kʰrɪstɪ
 kristiansen;kristian-sen,kʰrɪstjansɛːn
@@ -35120,8 +35120,8 @@ kristnihátíð;kristni-hátíð,kʰrɪstnɪhauːtʰið
 kristnihátíðar;kristni-hátíðar,kʰrɪstnɪhauːtʰiðar
 kristninnar;kristninnar,kʰrɪstnɪnar
 kristnir;kristnir,kʰrɪstnɪr
-kristnitöku;kristni-töku,kʰrɪstnɪtœːkʏ
-kristnitökunnar;kristni-tökunnar,kʰrɪstnɪtœːkʏnar
+kristnitöku;kristni-töku,kʰrɪstnɪtʰœːkʏ
+kristnitökunnar;kristni-tökunnar,kʰrɪstnɪtʰœːkʏnar
 kristnu;kristnu,kʰrɪstnʏ
 kristnum;kristnum,kʰrɪstnʏm
 krists;krists,kʰrɪsts
@@ -35499,8 +35499,8 @@ kvikmyndastjörnur;kvikmynda-stjörnur,kʰvɪːkmɪntastjœrtnʏr
 kvikmyndasögunnar;kvik-myndasögunnar,kʰvɪːkmɪntasœːɣʏnar
 kvikmyndasögunni;kvikmyndasög-unni,kʰvɪːkmɪntasœːɣʏnɪ
 kvikmyndasýningar;kvik-mynda-sýningar,kʰvɪːkmɪntasiːniŋkar
-kvikmyndatónlist;kvikmynda-tónlist,kʰvɪːkmɪntatounlɪst
-kvikmyndatöku;kvikmynda-töku,kʰvɪːkmɪntatœːkʏ
+kvikmyndatónlist;kvikmynda-tónlist,kʰvɪːkmɪntatʰounlɪst
+kvikmyndatöku;kvikmynda-töku,kʰvɪːkmɪntatʰœːkʏ
 kvikmyndavinnu;kvikmynda-vinnu,kʰvɪːkmɪntavɪnʏ
 kvikmyndin;kvik-myndin,kʰvɪːkmɪntɪn
 kvikmyndina;kvik-myndina,kʰvɪːkmɪntɪna
@@ -35610,8 +35610,8 @@ kvölds;kvölds,kʰvœlts
 kvöldsins;kvöldsins,kʰvœltsɪns
 kvöldstund;kvöld-stund,kʰvœltstʏnt
 kvöldsólin;kvöld-sólin,kʰvœltsoulɪn
-kvöldsólinni;kvöldsólinni,kʰvœltsoulɪnɪ
-kvöldtónar;kvöld-tónar,kʰvœltounar
+kvöldsólinni;kvöld-sólinni,kʰvœltsoulɪnɪ
+kvöldtónar;kvöld-tónar,kʰvœltʰounar
 kvöldum;kvöldum,kʰvœltʏm
 kvöldvakt;kvöld-vakt,kʰvœltvaxt
 kvöldveislu;kvöld-veislu,kʰvœltveistlʏ
@@ -35997,7 +35997,7 @@ kúgaðist;kúgað-ist,kʰuːaðɪst
 kúlnahríð;kúlna-hríð,kʰulnar̥iːð
 kúluhatt;kúlu-hatt,kʰuːlʏhaht
 kúluna;kúluna,kʰuːlʏna
-kúlupenna;kúlu-penna,kʰuːlʏpɛna
+kúlupenna;kúlu-penna,kʰuːlʏpʰɛna
 kúluvarpi;kúlu-varpi,kʰuːlʏvar̥pɪ
 kúnninn;kúnninn,kʰunɪn
 kúnstarinnar;kúnstar-innar,kʰunstarɪnar
@@ -38919,7 +38919,7 @@ matvælavinnslu;matvæla-vinnslu,maːtvailavɪnstlʏ
 matvælum;mat-vælum,maːtvailʏm
 matvöru;mat-vöru,maːtvœrʏ
 matvörum;mat-vörum,maːtvœrʏm
-matvörumarkaði;mat-vörumarkaði,maːtvœrʏmar̥kaðɪ
+matvörumarkaði;mat-vöru-markaði,maːtvœrʏmar̥kaðɪ
 matvörur;mat-vörur,maːtvœrʏr
 matvöruverslana;matvöru-verslana,maːtvœrʏvɛr̥stlana
 matvöruverslanir;matvöru-verslanir,maːtvœrʏvɛr̥stlanɪr
@@ -38929,18 +38929,18 @@ maurar;maurar,mœiːrar
 maurarnir;maur-arnir,mœiːrartnɪr
 maurum;maurum,mœiːrʏm
 mazdan;mazdan,mastan
-maíflugnaveislu;maíflugnaveislu,maiːflʏknaveistlʏ
+maíflugnaveislu;maíflugna-veislu,maiːflʏknaveistlʏ
 maímánuði;maí-mánuði,maiːmaunʏðɪ
 maísinn;maísinn,maiːjisɪn
-maísplöntunnar;maísplöntunnar,maiːjispʰlœn̥tʏnar
+maísplöntunnar;maís-plöntunnar,maiːjispʰlœn̥tʏnar
 maðkar;maðkar,maθkar
 maðurinn;maðurinn,maːðʏrɪn
 maórísku;maórísku,maːouriskʏ
 mcdonalds;mcdonalds,mahktouːnalts
 medíus;medíus,mɛːtijʏs
 mefistó;mefistó,mɛːfistou
-megabyte;megabyte,mɛːkapaiːt
-megabæt;megabæt,mɛːkapaiːt
+megabyte;mega-byte,mɛːkapaiːt
+megabæt;mega-bæt,mɛːkapaiːt
 megabæta;mega-bæta,mɛːkapaiːta
 megabæti;mega-bæti,mɛːkapaiːtɪ
 megasar;megasar,mɛːkasar
@@ -41973,7 +41973,7 @@ persónulegum;persónu-legum,pʰɛr̥sounʏlɛɣʏm
 persónulegur;persónu-legur,pʰɛr̥sounʏlɛɣʏr
 persónuleika;persónu-leika,pʰɛr̥sounʏleiːka
 persónuleikans;persónuleik-ans,pʰɛr̥sounʏleiːkans
-persónuleikaprófið;persónu-leika-prófið,pʰɛr̥sounʏleikaprouːɪð
+persónuleikaprófið;persónu-leika-prófið,pʰɛr̥sounʏleikapʰrouːɪð
 persónuleiki;persónu-leiki,pʰɛr̥sounʏleiːcɪ
 persónum;per-sónum,pʰɛr̥sounʏm
 persónuna;persónuna,pʰɛr̥sounʏna
@@ -42024,7 +42024,7 @@ pilturinn;pilturinn,pʰɪl̥tʏrɪn
 pinkil;pinkil,pʰiɲ̊cɪl
 pinkilinn;pinkilinn,pʰiɲ̊cɪlɪn
 pinkla;pinkla,pʰɪŋ̊kla
-piparkökur;pipar-kökur,pʰɪːparkœːkʏr
+piparkökur;pipar-kökur,pʰɪːparkʰœːkʏr
 piparnum;piparnum,pʰɪːpartnʏm
 piparsósu;piparsósu,pʰɪːparsouːsʏ
 pirrandi;pirr-andi,pʰɪrantɪ
@@ -42071,11 +42071,11 @@ plastið;plastið,pʰlastɪð
 plastjólasveina;plast-jólasveina,pʰlastjoulasveiːna
 plastlagningar;plastlagn-ingar,pʰlastlakniŋkar
 plastmótunar;plast-mótunar,pʰlastmoutʏnar
-plastpoka;plast-poka,pʰlastpɔka
-plastpokann;plastpok-ann,pʰlastpɔkan
-plastpokanum;plastpok-anum,pʰlastpɔkanʏm
+plastpoka;plast-poka,pʰlastpʰɔka
+plastpokann;plast-pok-ann,pʰlastpʰɔkan
+plastpokanum;plast-pok-anum,pʰlastpʰɔkanʏm
 plastpokar;plast-pokar,pʰlastpʰɔkar
-plastpokum;plast-pokum,pʰlastpɔkʏm
+plastpokum;plast-pokum,pʰlastpʰɔkʏm
 plastprent;plast-prent,pʰlastpʰrɛn̥t
 plaststrengur;plast-strengur,pʰlaststreiŋkʏr
 platan;platan,pʰlaːtan
@@ -42148,7 +42148,7 @@ postulínskaupmaður;postulíns-kaupmaður,pʰɔstʏlinskʰœihpmaðʏr
 postulínsmálun;postulíns-málun,pʰɔstʏlinsmaulʏn
 postulínsstell;postulíns-stell,pʰɔstʏlinstɛl
 pottana;pottana,pʰɔhtana
-pottaplöntu;potta-plöntu,pʰɔhtaplœn̥tʏ
+pottaplöntu;potta-plöntu,pʰɔhtapʰlœn̥tʏ
 pottinn;pottinn,pʰɔhtɪn
 pottinum;pottinum,pʰɔhtɪnʏm
 pottréttinn;pott-réttinn,pʰɔhtrjɛhtɪn
@@ -42382,7 +42382,7 @@ píanistinn;píanistinn,pʰiːjanɪstɪn
 píanói;píanói,pʰiːanouɪ
 píanóinu;píanóinu,pʰiːjanouɪnʏ
 píanóið;píanóið,pʰiːanouɪð
-píanókonsert;píanó-konsert,pʰiːjanoukɔnsɛr̥t
+píanókonsert;píanó-konsert,pʰiːjanoukʰɔnsɛr̥t
 píanóleik;píanó-leik,pʰiːjanouleiːk
 píanóleikara;píanóleik-ara,pʰiːjanouleiːkara
 píanóleikari;píanóleik-ari,pʰiːjanouleiːkarɪ
@@ -51732,7 +51732,7 @@ takmörkunum;tak-mörkunum,tʰaːkmœr̥kɔnʏm
 takmörkuð;tak-mörkuð,tʰaːkmœr̥kʏð
 takmörkuðu;tak-mörkuðu,tʰaːkmœr̥kʏðʏ
 takmörkuðum;tak-mörkuðum,tʰaːkmœr̥kʏðʏm
-takteinum;tak-teinum,tʰaːkteinʏm
+takteinum;tak-tʰeinum,tʰaːkteinʏm
 taktfast;takt-fast,tʰaxtfast
 taktinn;taktinn,tʰaxtɪn
 taktlaust;takt-laust,tʰaxtlœist
@@ -51899,7 +51899,7 @@ tekjuskatts;tekju-skatts,tʰɛːcʏskahts
 tekjustofna;tekju-stofna,tʰɛːcʏstɔpna
 tekjustreymi;tekju-streymi,tʰɛːcʏstreiːmɪ
 tekjutap;tekjutap,tʰɛːcʏtaːp
-tekjutengingu;tekju-tengingu,tʰɛːcʏteiɲciŋkʏ
+tekjutengingu;tekju-tengingu,tʰɛːcʏtʰeiɲciŋkʏ
 tekjutryggingar;tekju-tryggingar,tʰɛːcʏtʰrɪciŋkar
 tekjutryggingu;tekju-tryggingu,tʰɛːcʏtʰrɪciŋkʏ
 tekjuöflun;tekju-öflun,tʰɛːcʏœplʏn
@@ -51933,7 +51933,7 @@ tengdaforeldrum;tengda-foreldrum,tʰeiŋtafɔːrɛltrʏm
 tengdaföður;tengda-föður,tʰeiŋtafœːðʏr
 tengdamóður;tengda-móður,tʰeiŋtamouːðʏr
 tengdamömmu;tengda-mömmu,tʰeiŋtamœmʏ
-tengdapabba;tengda-pabba,tʰeiŋtapapa
+tengdapabba;tengda-pabba,tʰeiŋtapʰapa
 tengdar;tengdar,tʰeiŋtar
 tengdason;tengda-son,tʰeiŋtasɔːn
 tengdasonar;tengda-sonar,tʰeiŋtasɔːnar
@@ -52287,7 +52287,7 @@ tilviljanakennd;tilviljana-kennd,tʰɪlvɪljanacʰɛnt
 tilviljanir;til-viljanir,tʰɪlvɪljanɪr
 tilviljunin;til-viljunin,tʰɪlvɪljʏnɪn
 tilviljunum;til-viljunum,tʰɪlvɪljʏnʏm
-tilvistarkreppu;tilvistar-kreppu,tʰɪlvɪstarkrɛhpʏ
+tilvistarkreppu;tilvistar-kreppu,tʰɪlvɪstarkʰrɛhpʏ
 tilvistarvanda;tilvistar-vanda,tʰɪlvɪstarvanta
 tilvitnanir;til-vitnanir,tʰɪlvɪhtnanɪr
 tilvitnunum;til-vitnunum,tʰɪlvɪhtnʏnʏm
@@ -52482,7 +52482,7 @@ traustar;traustar,tʰrœistar
 traustari;traust-ari,tʰrœistarɪ
 traustason;trausta-son,tʰrœistasɔːn
 traustasyni;trausta-syni,tʰrœistasɪːnɪ
-traustataki;trausta-taki,tʰrœistataːcɪ
+traustataki;trausta-taki,tʰrœistatʰaːcɪ
 trausti;trausti,tʰrœistɪ
 traustir;traustir,tʰrœistɪr
 traustið;traustið,tʰrœistɪð
@@ -52500,7 +52500,7 @@ traðkaði;traðk-aði,tʰraθkaðɪ
 trefilinn;trefilinn,tʰrɛːvɪlɪn
 trefjaplötum;trefja-plötum,tʰrɛfjapʰlœːtʏm
 trefli;trefli,tʰrɛplɪ
-tregatárin;tregatárin,tʰrɛːɣatauːrɪn
+tregatárin;trega-tárin,tʰrɛːɣatʰauːrɪn
 tregir;tregir,tʰreijɪr
 treglega;treg-lega,tʰrɛɣlɛɣa
 tregur;tregur,tʰrɛːɣʏr
@@ -52533,7 +52533,7 @@ trjágreinum;trjá-greinum,tʰrjauːkreinʏm
 trjágróðri;trjá-gróðri,tʰrjauːkrouðrɪ
 trjánna;trjánna,tʰrjauna
 trjánum;trjánum,tʰrjauːnʏm
-trjáplöntur;trjá-plöntur,tʰrjauːplœn̥tʏr
+trjáplöntur;trjá-plöntur,tʰrjauːpʰlœn̥tʏr
 trjásneiðunum;trjá-sneiðunum,tʰrjauːstneiðɔnʏm
 trjátoppunum;trjátoppunum,tʰrjauːtɔhpɔnʏm
 trogið;trogið,tʰrɔːjɪð
@@ -52826,10 +52826,10 @@ tvístígandi;tví-stígandi,tʰviːstiɣantɪ
 tvísýn;tví-sýn,tʰviːsin
 tvísýnt;tví-sýnt,tʰviːsin̥t
 tvísýnu;tví-sýnu,tʰviːsinʏ
-tvítalningar;tvítaln-ingar,tʰviːtalniŋkar
+tvítalningar;tví-taln-ingar,tʰviːtʰalniŋkar
 tvítug;tví-tug,tʰviːtʰʏɣ
 tvítugs;tví-tugs,tʰviːtʰʏxs
-tvítugsaldri;tvítugs-aldri,tʰviːtʏksaltrɪ
+tvítugsaldri;tvítugs-aldri,tʰviːtʏxsaltrɪ
 tvítugt;tví-tugt,tʰviːtʰʏxt
 tvítugu;tví-tugu,tʰviːtʏɣʏ
 tvíverknað;tví-verknað,tʰviːvɛr̥knað
@@ -52984,7 +52984,7 @@ tímanna;tímanna,tʰiːmana
 tímans;tímans,tʰiːmans
 tímanum;tímanum,tʰiːmanʏm
 tímapantanir;tíma-pantanir,tʰiːmapʰan̥tanɪr
-tímapunkti;tíma-punkti,tʰiːmapuŋ̊tɪ
+tímapunkti;tíma-punkti,tʰiːmapʰuŋ̊tɪ
 tímarita;tíma-rita,tʰiːmarɪːta
 tímariti;tíma-riti,tʰiːmarɪːtɪ
 tímaritin;tíma-ritin,tʰiːmarɪːtɪn
@@ -52996,7 +52996,7 @@ tímaritum;tíma-ritum,tʰiːmarɪːtʏm
 tímarnir;tím-arnir,tʰiːmartnɪr
 tímasetningar;tíma-setningar,tʰiːmasɛhtniŋkar
 tímasetningu;tíma-setningu,tʰiːmasɛhtniŋkʏ
-tímatöku;tíma-töku,tʰiːmatœːkʏ
+tímatöku;tíma-töku,tʰiːmatʰœːkʏ
 tíminn;tíminn,tʰiːmɪn
 tímunum;tímunum,tʰiːmɔnʏm
 tínast;tínast,tʰiːnast
@@ -53112,9 +53112,9 @@ tónlistarhús;tónlistar-hús,tʰounlɪstarhuːs
 tónlistarhúsi;tónlistar-húsi,tʰounlɪstarhuːsɪ
 tónlistarhúss;tónlistar-húss,tʰounlɪstarhus
 tónlistarinnar;tón-listar-innar,tʰounlɪstarɪnar
-tónlistarkennara;tónlistar-kennara,tʰounlɪstarcɛnara
-tónlistarkennarar;tónlistar-kennarar,tʰounlɪstarcɛnarar
-tónlistarkennslu;tónlistar-kennslu,tʰounlɪstarcɛnstlʏ
+tónlistarkennara;tónlistar-kennara,tʰounlɪstarcʰɛnara
+tónlistarkennarar;tónlistar-kennarar,tʰounlɪstarcʰɛnarar
+tónlistarkennslu;tónlistar-kennslu,tʰounlɪstarcʰɛnstlʏ
 tónlistarlíf;tónlistar-líf,tʰounlɪstarliːv
 tónlistarlífi;tónlistar-lífi,tʰounlɪstarliːvɪ
 tónlistarmann;tónlistar-mann,tʰounlɪstarman
@@ -53127,7 +53127,7 @@ tónlistarmönnum;tónlistar-mönnum,tʰounlɪstarmœnʏm
 tónlistarnám;tónlistar-nám,tʰounlɪstarnauːm
 tónlistarnámi;tónlistar-námi,tʰounlɪstarnauːmɪ
 tónlistarskóla;tónlistar-skóla,tʰounlɪstarskouːla
-tónlistarskólakennara;tónlistar-skóla-kennara,tʰounlɪstarcɛnara
+tónlistarskólakennara;tónlistar-skóla-kennara,tʰounlɪstarcʰɛnara
 tónlistarskólann;tónlistar-skólann,tʰounlɪstarskouːlan
 tónlistarskólanna;tónlistar-skólanna,tʰounlɪstarskouːlana
 tónlistarskólans;tónlistar-skólans,tʰounlɪstarskouːlans
@@ -53217,15 +53217,15 @@ tölvunnar;tölvunnar,tʰœlvʏnar
 tölvunni;tölv-unni,tʰœlvʏnɪ
 tölvunotkun;tölvu-notkun,tʰœlvʏnɔtkʏn
 tölvunum;tölvunum,tʰœlvɔnʏm
-tölvupóst;tölvu-póst,tʰœlvʏpoust
-tölvupósti;tölvu-pósti,tʰœlvʏpoustɪ
-tölvupósts;tölvu-pósts,tʰœlvʏpousts
+tölvupóst;tölvu-póst,tʰœlvʏpʰoust
+tölvupósti;tölvu-pósti,tʰœlvʏpʰoustɪ
+tölvupósts;tölvu-pósts,tʰœlvʏpʰousts
 tölvur;tölvur,tʰœlvʏr
 tölvurnar;tölvurnar,tʰœlvʏtnar
 tölvusett;tölvu-sett,tʰœlvʏsɛht
 tölvuskjá;tölvu-skjá,tʰœlvʏscauː
 tölvuskjánum;tölvu-skjánum,tʰœlvʏscauːnʏm
-tölvutæku;tölvu-tæku,tʰœlvʏtaiːkʏ
+tölvutæku;tölvu-tæku,tʰœlvʏtʰaiːkʏ
 töngum;töngum,tʰœiŋkʏm
 tönkum;tönkum,tʰœiŋ̊kʏm
 tönnin;tönnin,tʰœnɪn
