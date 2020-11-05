@@ -1,6 +1,6 @@
-#prédikunarstólinn,    pʰrɛːtɪkʏnarstouːlɪn
-#prédikunarstóllinn,   pʰrɛːtɪkʏnarstoutlɪn
-#skemmtidagskrá,       scɛm̥tɪtaxskrau
+prédikunarstólinn,    pʰrɛːtɪkʏnarstouːlɪn
+prédikunarstóllinn,   pʰrɛːtɪkʏnarstoutlɪn
+skemmtidagskrá,       scɛm̥tɪtaxskrau
 a,                    aː
 abbadísin,            apatiːsɪn
 abbast,               apast
@@ -12978,7 +12978,7 @@ frágangur,            frauːkauŋkʏr
 frágengin,             frauːceiɲcɪn
 frágengið,             frauːceiɲcɪð
 fráhrindandi,         frauːr̥ɪntantɪ
-fráhvarfseinkʰenni,    frauːkʰvarseiɲcʰɛnɪ
+fráhvarfseinkenni,    frauːkʰvarseiɲcʰɛnɪ
 fráköst,               frauːkʰœst
 fráleit,               frauːleit
 fráleitt,              frauːleiht
@@ -31263,7 +31263,6 @@ meint,                mein̥t
 meinta,                mein̥ta
 meintan,               mein̥tan
 meinti,                mein̥tɪ
-meinti<meinti,         meintɪ
 meintra,               mein̥tra
 meintri,               mein̥trɪ
 meintu,                mein̥tʏ
@@ -36155,7 +36154,6 @@ pössum,                pʰœsʏm
 pössuðu,               pʰœsʏðʏ
 púrtara,               pʰur̥tara
 púðursykur,           pʰuːðʏrsɪkʏr
-q,                    kʰuː
 r,                    ɛr
 rabarbara,             raparpaːra
 rabarbari,             raparpaːrɪ
@@ -60680,3 +60678,4 @@ z,                    sɛːta
 þýðingunni,           θiːðiŋkʏnɪ
 þýðir,                θiːðɪr
 þýður,                θiːðʏr
+q,                    kʰuː
