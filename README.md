@@ -1,3 +1,7 @@
+**⚠️ Deprecated**: Please use the **[iceprondict](https://github.com/grammatek/iceprondict)** dataset instead of this dataset.
+
+---
+
 # Icelandic pronunciation dataset
 
 [![License: CC BY-SA 3.0](https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by/3.0/)
@@ -10,15 +14,7 @@ This is the [Pronunciation Dictionary for Icelandic](http://malfong.is/?pg=framb
 
 **Known issues:** Several words that are supposed to include [kʰ], [cʰ], [tʰ], and [pʰ] in the middle are missing the aspirations – "umhverfi" [ʏmkʰvɛrvɪ] may for example be incorrectly written as  [ʏmkvɛrvɪ]. Regional variants and [heterophones](https://en.wikipedia.org/wiki/Heterophone) aren't included.
 
-[Contact me](mailto:egillsigurdur@gmail.com) to suggest improvements.
-
-
-
 ## Further reading
 
 - [Íslensk hljóðfræði handa framhaldsskólum](https://notendur.hi.is/eirikur/hljfr.pdf) (in Icelandic), Eiríkur Rögnvaldsson, 1990.
 - [Hljóðfræði og hljóðritun](https://notendur.hi.is/eirikur/hoi.pdf) (in Icelandic), Eiríkur Rögnvaldsson.
-
-## See also
-
-* The [Icelandic vocabulary dataset](https://github.com/egilll/icelandic-vocabulary-dataset)
